@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "首頁",
+    "about": "關於",
+    "test": "開始測驗"
+  },
+  "landing": {
+    "title": "發現你的 MBTI 人格類型",
+    "subtitle": "快速、有趣的性格測驗，只需 1-2 分鐘即可揭示你的 16 型 MBTI 人格。",
+    "cta": "開始測驗",
+    "features": {
+      "fast": "快速簡單",
+      "fastDesc": "1-2 分鐘完成",
+      "accurate": "準確結果",
+      "accurateDesc": "基於決策樹方法",
+      "shareable": "分享結果",
+      "shareableDesc": "與朋友和家人分享"
+    }
+  },
+  "test": {
+    "title": "MBTI 快速測驗",
+    "back": "返回",
+    "restart": "重新開始",
+    "progress": "進度"
+  },
+  "result": {
+    "title": "你的 MBTI 類型",
+    "share": "分享結果",
+    "retake": "重新測驗",
+    "copySuccess": "已複製到剪貼簿！",
+    "copyError": "複製失敗"
+  },
+  "about": {
+    "title": "關於 MBTI",
+    "description": "邁爾斯-布里格斯類型指標（MBTI）是一種人格評估工具，根據四個維度將個人分類為 16 種不同的人格類型：外向/內向、感覺/直覺、思考/情感和判斷/感知。",
+    "disclaimer": "這是一個用於娛樂目的的快速測驗。如需專業評估，請諮詢認證的 MBTI 從業者。",
+    "privacy": "隱私",
+    "privacyText": "我們不會儲存您的測驗結果。所有資料都在您的瀏覽器中本地處理。"
+  }
+}
+

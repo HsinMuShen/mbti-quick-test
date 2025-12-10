@@ -1,0 +1,175 @@
+{
+  "start": "q0",
+  "nodes": {
+    "q0": {
+      "question": { "zh-TW": "你怪嗎？", "en": "are you weird?", "es": "¿eres rarito?" },
+      "options": [
+        { "label": { "zh-TW": "算怪吧", "en": "yes", "es": "sí" }, "next": "q1" },
+        { "label": { "zh-TW": "還好吧", "en": "no", "es": "no" }, "next": "q20" }
+      ]
+    },
+    "q1": {
+      "question": { "zh-TW": "社交焦慮？", "en": "social anxiety?", "es": "¿ansiedad social?" },
+      "options": [
+        { "label": { "zh-TW": "有點", "en": "yes", "es": "sí" }, "next": "q2" },
+        { "label": { "zh-TW": "沒有啦", "en": "no", "es": "no" }, "next": "q7" }
+      ]
+    },
+    "q2": {
+      "question": { "zh-TW": "理性嗎？", "en": "logical?", "es": "¿lógico?" },
+      "options": [
+        { "label": { "zh-TW": "非常理性", "en": "yes", "es": "sí" }, "next": "q3" },
+        { "label": { "zh-TW": "感覺派", "en": "no", "es": "no" }, "next": "q4" }
+      ]
+    },
+    "q3": {
+      "question": { "zh-TW": "情緒化？", "en": "emotional?", "es": "¿emocional?" },
+      "options": [
+        { "label": { "zh-TW": "不太會啦", "en": "no", "es": "no" }, "next": "q5A" },
+        { "label": { "zh-TW": "超級會哭爆", "en": "yes", "es": "sí" }, "next": "leaf_infj" }
+      ]
+    },
+    "q4": {
+      "question": { "zh-TW": "情緒化？", "en": "emotional?", "es": "¿emocional?" },
+      "options": [
+        { "label": { "zh-TW": "會啊", "en": "yes", "es": "sí" }, "next": "leaf_infj" },
+        { "label": { "zh-TW": "其實不太會", "en": "no", "es": "no" }, "next": "q5A" }
+      ]
+    },
+    "q5A": {
+      "question": { "zh-TW": "你確定？", "en": "you sure?", "es": "¿seguro?" },
+      "options": [
+        { "label": { "zh-TW": "引用達爾文那句『心要夠硬』", "en": "darwin quote about heart of stone", "es": "cita de darwin sobre corazón de piedra" }, "next": "leaf_intj" },
+        { "label": { "zh-TW": "嗯…說不定吧", "en": "well, it's complicated", "es": "bueno, es complicado" }, "next": "q5B" },
+        { "label": { "zh-TW": "我不確定耶", "en": "not sure", "es": "no estoy segur@" }, "next": "q10" }
+      ]
+    },
+    "q5B": {
+      "question": { "zh-TW": "喜歡機械或重機？", "en": "heavy machinery?", "es": "¿maquinaria pesada?" },
+      "options": [
+        { "label": { "zh-TW": "幹當然啦！", "en": "hell yeah", "es": "claro que sí" }, "next": "leaf_istp" },
+        { "label": { "zh-TW": "還好，看心情", "en": "it's okay", "es": "está bien" }, "next": "leaf_intp" }
+      ]
+    },
+    "q7": {
+      "question": { "zh-TW": "有點機掰嗎？", "en": "bit of a cunt?", "es": "¿eres un poco borde?" },
+      "options": [
+        { "label": { "zh-TW": "沒有啦我超乖", "en": "no", "es": "no" }, "next": "q8" },
+        { "label": { "zh-TW": "可能有一點哈哈", "en": "yes", "es": "sí" }, "next": "q11" }
+      ]
+    },
+    "q8": {
+      "question": { "zh-TW": "容易情緒化嗎？", "en": "emotional?", "es": "¿emocional?" },
+      "options": [
+        { "label": { "zh-TW": "幹超容易爆哭", "en": "yes", "es": "sí" }, "next": "q9" },
+        { "label": { "zh-TW": "我很穩定OK？", "en": "no", "es": "no" }, "next": "leaf_infj" },
+        { "label": { "zh-TW": "看月亮狀況", "en": "depends on the moon", "es": "depende de la luna" }, "next": "leaf_infp" }
+      ]
+    },
+    "q9": {
+      "question": { "zh-TW": "*歇斯底里爆哭*", "en": "*hysterical sobbing*", "es": "*sollozo histérico*" },
+      "options": [
+        { "label": { "zh-TW": "（抱頭痛哭）", "en": "…", "es": "…" }, "next": "leaf_infp" }
+      ]
+    },
+    "q10": {
+      "question": { "zh-TW": "爽啦？（來點瘋的）", "en": "hell yeah? (go wild?)", "es": "¿claro que sí? (¡a lo loco!)" },
+      "options": [
+        { "label": { "zh-TW": "幹當然啦！", "en": "hell yeah!", "es": "¡de una!" }, "next": "leaf_estp" },
+        { "label": { "zh-TW": "熱鬧一點比較爽", "en": "make it social", "es": "que sea social" }, "next": "leaf_esfp" },
+        { "label": { "zh-TW": "嘴砲開起來", "en": "debate it", "es": "debatirlo" }, "next": "leaf_entp" },
+        { "label": { "zh-TW": "我來傳遞正能量！", "en": "inspire people", "es": "inspirar a la gente" }, "next": "leaf_enfp" }
+      ]
+    },
+    "q11": {
+      "question": { "zh-TW": "規則就是拿來打破的？", "en": "made to be broken?", "es": "¿hechas para romperse?" },
+      "options": [
+        { "label": { "zh-TW": "極限運動爽不爽？", "en": "extreme sports?", "es": "¿deportes extremos?" }, "next": "q12" },
+        { "label": { "zh-TW": "我寧願嗑藥", "en": "rather do molly", "es": "prefiero molly" }, "next": "q13" },
+        { "label": { "zh-TW": "幹規則去死吧", "en": "fuck rules", "es": "que se jodan las reglas" }, "next": "q10" }
+      ]
+    },
+    "q12": {
+      "question": { "zh-TW": "極限運動爽不爽？", "en": "extreme sports?", "es": "¿deportes extremos?" },
+      "options": [
+        { "label": { "zh-TW": "幹當然啦！", "en": "hell yeah", "es": "¡de una!" }, "next": "leaf_estp" },
+        { "label": { "zh-TW": "還好，我比較喜歡跳舞", "en": "yeah, i suppose", "es": "sí, supongo" }, "next": "leaf_esfp" }
+      ]
+    },
+    "q13": {
+      "question": { "zh-TW": "會低調嗑藥嗎？", "en": "quietly?", "es": "¿en silencio?" },
+      "options": [
+        { "label": { "zh-TW": "不，我要開趴！", "en": "nah", "es": "mejor no" }, "next": "leaf_esfp" },
+        { "label": { "zh-TW": "會啦，自己爽就好", "en": "yes", "es": "sí" }, "next": "leaf_isfp" }
+      ]
+    },
+    "q14": {
+      "question": { "zh-TW": "你懶嗎？", "en": "lazy?", "es": "¿perezoso?" },
+      "options": [
+        { "label": { "zh-TW": "我超勤勞好嗎", "en": "no", "es": "no" }, "next": "leaf_entj" },
+        { "label": { "zh-TW": "懶到不行", "en": "yeah", "es": "sí" }, "next": "q15" }
+      ]
+    },
+    "q15": {
+      "question": { "zh-TW": "你信脈輪這套嗎？", "en": "chakras?", "es": "¿chakras?" },
+      "options": [
+        { "label": { "zh-TW": "那是屁話", "en": "bullshit", "es": "patrañas" }, "next": "leaf_entp" },
+        { "label": { "zh-TW": "我真的該多冥想，他們超不平衡", "en": "i really ought to meditate more, they're so unbalanced", "es": "debería meditar más, están tan desequilibrados" }, "next": "leaf_enfp" }
+      ]
+    },
+    "q20": {
+      "question": { "zh-TW": "規則這種東西？", "en": "rules?", "es": "¿reglas?" },
+      "options": [
+        { "label": { "zh-TW": "是社會運作的必要東西", "en": "necessary for society to run smoothly", "es": "necesarias para que la sociedad funcione" }, "next": "q21" },
+        { "label": { "zh-TW": "只要不要太激怒我就行", "en": "as long as they're not triggering", "es": "mientras no sean gatillantes" }, "next": "q25" },
+        { "label": { "zh-TW": "幹規則去死吧", "en": "fuck rules", "es": "que se jodan las reglas" }, "next": "q10" }
+      ]
+    },
+    "q21": {
+      "question": { "zh-TW": "要不要強制大家遵守？", "en": "enforce them?", "es": "¿hacerlas cumplir?" },
+      "options": [
+        { "label": { "zh-TW": "靠吼的方式", "en": "via yelling?", "es": "¿a gritos?" }, "next": "leaf_estj" },
+        { "label": { "zh-TW": "默默執行", "en": "quietly?", "es": "¿en silencio?" }, "next": "leaf_istj" },
+        { "label": { "zh-TW": "我懶得管", "en": "couldn't care less", "es": "me da igual" }, "next": "q25" }
+      ]
+    },
+    "q25": {
+      "question": { "zh-TW": "隨便打炮？", "en": "casual sex?", "es": "¿sexo casual?" },
+      "options": [
+        { "label": { "zh-TW": "也許？看心情", "en": "maybe", "es": "quizá" }, "next": "q26" },
+        { "label": { "zh-TW": "*狂唸40遍聖母經*", "en": "*says 40 hail marys*", "es": "*reza 40 avemarías*" }, "next": "leaf_isfj" },
+        { "label": { "zh-TW": "只有靈魂結合才算", "en": "only if souls align", "es": "solo si las almas se alinean" }, "next": "leaf_infp" }
+      ]
+    },
+    "q26": {
+      "question": { "zh-TW": "你有大學學歷嗎？", "en": "are you college-educated?", "es": "¿tienes estudios universitarios?" },
+      "options": [
+        { "label": { "zh-TW": "有啊", "en": "yes", "es": "sí" }, "next": "q27" },
+        { "label": { "zh-TW": "沒有", "en": "no", "es": "no" }, "next": "leaf_esfj" }
+      ]
+    },
+    "q27": {
+      "question": { "zh-TW": "主修性別研究？", "en": "gender studies?", "es": "¿estudios de género?" },
+      "options": [
+        { "label": { "zh-TW": "嗯…", "en": "…", "es": "…" }, "next": "leaf_enfj" }
+      ]
+    },
+
+    "leaf_intj": { "result": { "mbti": "INTJ", "title": { "zh-TW": "建築師", "en": "Architect", "es": "Arquitecto" }, "summary": { "zh-TW": "藍圖在腦裡，情緒在冷凍庫。", "en": "Blueprints in head, emotions in cold storage.", "es": "Planos en la cabeza, emociones en frío." } } },
+    "leaf_intp": { "result": { "mbti": "INTP", "title": { "zh-TW": "邏輯學家", "en": "Logician", "es": "Lógico" }, "summary": { "zh-TW": "問題會自己拆完，你只需要再想42層。", "en": "Dissects problems until they vanish; answers on layer 42.", "es": "Desmonta problemas hasta que desaparecen; respuestas en la capa 42." } } },
+    "leaf_infj": { "result": { "mbti": "INFJ", "title": { "zh-TW": "提倡者", "en": "Advocate", "es": "Defensor" }, "summary": { "zh-TW": "理想和共感一起上線，哭點也很低。", "en": "Dual-wielding ideals and empathy; cries after midnight.", "es": "Doble filo: ideales y empatía; lágrimas pasada la medianoche." } } },
+    "leaf_infp": { "result": { "mbti": "INFP", "title": { "zh-TW": "調停者", "en": "Mediator", "es": "Mediador" }, "summary": { "zh-TW": "心軟到爆，世界需要多一點你。", "en": "Heart full, voice soft; the world needs more of you.", "es": "Corazón lleno, voz suave; el mundo necesita más de ti." } } },
+    "leaf_istp": { "result": { "mbti": "ISTP", "title": { "zh-TW": "工匠", "en": "Virtuoso", "es": "Virtuoso" }, "summary": { "zh-TW": "先拆再說，手感就是規範。", "en": "Take it apart first; your hands are the spec.", "es": "Primero desmóntalo; tus manos son la especificación." } } },
+    "leaf_isfp": { "result": { "mbti": "ISFP", "title": { "zh-TW": "探險家", "en": "Adventurer", "es": "Aventurero" }, "summary": { "zh-TW": "低調但熱烈，美感開到最大。", "en": "Quietly intense; your soul posts through actions.", "es": "Intensidad callada; tu alma publica con actos." } } },
+    "leaf_istj": { "result": { "mbti": "ISTJ", "title": { "zh-TW": "物流師", "en": "Logistician", "es": "Logista" }, "summary": { "zh-TW": "清單是聖經，準時是信仰。", "en": "Checklists are truth; punctual by instinct.", "es": "Las listas son verdad; puntual por instinto." } } },
+    "leaf_isfj": { "result": { "mbti": "ISFJ", "title": { "zh-TW": "守護者", "en": "Defender", "es": "Defensor" }, "summary": { "zh-TW": "溫柔的脊梁，是世界正常運轉的祕密齒輪。", "en": "Gentle backbone—the hidden part that keeps all running.", "es": "Columna suave: la pieza oculta que hace funcionar todo." } } },
+    "leaf_entp": { "result": { "mbti": "ENTP", "title": { "zh-TW": "辯論家", "en": "Debater", "es": "Debatiente" }, "summary": { "zh-TW": "嘴砲不會停，永遠有下一場辯論。", "en": "Endless debates; another argument always loading.", "es": "Debates sin fin; otro argumento cargando." } } },
+    "leaf_enfp": { "result": { "mbti": "ENFP", "title": { "zh-TW": "競選者", "en": "Campaigner", "es": "Activista" }, "summary": { "zh-TW": "靈感噴泉、社交界的小太陽。", "en": "Idea fountain; the group’s portable sun.", "es": "Fuente de ideas; el sol portátil del grupo." } } },
+    "leaf_enfj": { "result": { "mbti": "ENFJ", "title": { "zh-TW": "主人公", "en": "Protagonist", "es": "Protagonista" }, "summary": { "zh-TW": "一開口大家就點頭，說服力滿點。", "en": "Speak and heads nod—your aura ships consensus.", "es": "Hablas y asienten—tu aura entrega consenso." } } },
+    "leaf_esfj": { "result": { "mbti": "ESFJ", "title": { "zh-TW": "執政官", "en": "Consul", "es": "Cónsul" }, "summary": { "zh-TW": "活動組長魂，溫暖又有效率。", "en": "Event captain; runs order and warmth in dual-core.", "es": "Capitán de eventos; orden y calidez a doble núcleo." } } },
+    "leaf_estp": { "result": { "mbti": "ESTP", "title": { "zh-TW": "企業家", "en": "Entrepreneur", "es": "Emprendedor" }, "summary": { "zh-TW": "先上車再補票，臨場反應神速。", "en": "Board first, ticket later; reflexes are your superpower.", "es": "Súbete primero, boleto después; reflejos en vivo = superpoder." } } },
+    "leaf_esfp": { "result": { "mbti": "ESFP", "title": { "zh-TW": "表演者", "en": "Entertainer", "es": "Animador" }, "summary": { "zh-TW": "氣氛製造機，出現就有派對感。", "en": "Vibe generator; fun goes live when you show up.", "es": "Generador de vibra; la diversión empieza contigo." } } },
+    "leaf_estj": { "result": { "mbti": "ESTJ", "title": { "zh-TW": "總經理", "en": "Executive", "es": "Ejecutivo" }, "summary": { "zh-TW": "流程控神，效率是信仰。", "en": "Process is justice; delivery is doctrine.", "es": "El proceso es justicia; entregar es doctrina." } } },
+    "leaf_entj": { "result": { "mbti": "ENTJ", "title": { "zh-TW": "指揮官", "en": "Commander", "es": "Comandante" }, "summary": { "zh-TW": "世界是你的路線圖，領導是你的日常。", "en": "The map’s in your head; the world is the route.", "es": "El mapa va en tu cabeza; el mundo es la ruta." } } }
+  }
+}

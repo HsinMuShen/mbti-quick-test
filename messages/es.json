@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "test": "Hacer Test"
+  },
+  "landing": {
+    "title": "Descubre Tu Tipo MBTI",
+    "subtitle": "Una prueba de personalidad rápida y agradable que revela tu personalidad MBTI de 16 tipos en solo 1-2 minutos.",
+    "cta": "Comenzar Test",
+    "features": {
+      "fast": "Rápido y Simple",
+      "fastDesc": "Completa en 1-2 minutos",
+      "accurate": "Resultados Precisos",
+      "accurateDesc": "Basado en metodología de árbol de decisiones",
+      "shareable": "Comparte Tu Resultado",
+      "shareableDesc": "Comparte con amigos y familia"
+    }
+  },
+  "test": {
+    "title": "Test Rápido MBTI",
+    "back": "Atrás",
+    "restart": "Reiniciar",
+    "progress": "Progreso"
+  },
+  "result": {
+    "title": "Tu Tipo MBTI",
+    "share": "Compartir Resultado",
+    "retake": "Repetir Test",
+    "copySuccess": "¡Copiado al portapapeles!",
+    "copyError": "Error al copiar"
+  },
+  "about": {
+    "title": "Acerca de MBTI",
+    "description": "El Indicador de Tipo de Myers-Briggs (MBTI) es una herramienta de evaluación de personalidad que categoriza a los individuos en 16 tipos de personalidad distintos basados en cuatro dimensiones: Extraversión/Introversión, Sensación/Intuición, Pensamiento/Sentimiento y Juicio/Percepción.",
+    "disclaimer": "Esta es una prueba rápida con fines de entretenimiento. Para una evaluación profesional, consulte a profesionales certificados de MBTI.",
+    "privacy": "Privacidad",
+    "privacyText": "No almacenamos tus resultados de prueba. Todos los datos se procesan localmente en tu navegador."
+  }
+}
+

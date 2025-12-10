@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "test": "Take Test"
+  },
+  "landing": {
+    "title": "Discover Your MBTI Type",
+    "subtitle": "A quick, delightful personality test that reveals your 16-type MBTI personality in just 1-2 minutes.",
+    "cta": "Start Test",
+    "features": {
+      "fast": "Fast & Simple",
+      "fastDesc": "Complete in 1-2 minutes",
+      "accurate": "Accurate Results",
+      "accurateDesc": "Based on decision tree methodology",
+      "shareable": "Share Your Result",
+      "shareableDesc": "Share with friends and family"
+    }
+  },
+  "test": {
+    "title": "MBTI Quick Test",
+    "back": "Back",
+    "restart": "Restart",
+    "progress": "Progress"
+  },
+  "result": {
+    "title": "Your MBTI Type",
+    "share": "Share Result",
+    "retake": "Retake Test",
+    "copySuccess": "Copied to clipboard!",
+    "copyError": "Failed to copy"
+  },
+  "about": {
+    "title": "About MBTI",
+    "description": "The Myers-Briggs Type Indicator (MBTI) is a personality assessment tool that categorizes individuals into 16 distinct personality types based on four dimensions: Extraversion/Introversion, Sensing/Intuition, Thinking/Feeling, and Judging/Perceiving.",
+    "disclaimer": "This is a quick test for entertainment purposes. For professional assessment, please consult certified MBTI practitioners.",
+    "privacy": "Privacy",
+    "privacyText": "We do not store your test results. All data is processed locally in your browser."
+  }
+}
+
