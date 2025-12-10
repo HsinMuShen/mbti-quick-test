@@ -26,15 +26,15 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider messages={messages}>
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 w-full overflow-x-hidden">
         <Navigation locale={locale} />
-        <main className="container mx-auto px-4 py-8">
+        <main className="container mx-auto px-4 py-8 max-w-full">
           <div className="flex justify-end mb-4">
             <LanguageSwitcher />
           </div>
           {children}
         </main>
-        <footer className="border-t mt-16 py-8 text-center text-gray-600 text-sm">
+        <footer className="border-t mt-16 py-8 text-center text-gray-600 text-sm px-4">
           <p>© 2024 MBTI Quick Test. For entertainment purposes only.</p>
         </footer>
       </div>

@@ -89,7 +89,7 @@ export default async function ResultPage({
   const t = await getTranslations('result')
 
   return (
-    <div className="max-w-7xl mx-auto px-4">
+    <div className="max-w-7xl mx-auto px-4 w-full">
       <div className="flex flex-col lg:flex-row gap-8">
         {/* Main content */}
         <div className="flex-1 max-w-4xl">

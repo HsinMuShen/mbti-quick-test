@@ -20,7 +20,7 @@ export default async function LandingPage({ params }: { params: Promise<{ locale
   const t = await getTranslations('landing')
 
   return (
-    <div className="max-w-6xl mx-auto">
+    <div className="max-w-6xl mx-auto w-full px-4">
       {/* Optional non-intrusive banner ad */}
       <div className="mb-8">
         <AdSlot slot="landing-banner" className="w-full" format="auto" />
