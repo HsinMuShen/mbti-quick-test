@@ -1,0 +1,275 @@
+{
+  "INTJ": {
+    "en": {
+      "description": "INTJs are strategic thinkers who excel at long-term planning and complex problem-solving. They value independence, logic, and efficiency. Often seen as visionaries, INTJs are driven by their ideas and have a strong desire to understand how things work. They prefer working alone or with a small, competent team, and they're not afraid to challenge conventional thinking.",
+      "strengths": "Strategic planning, independent thinking, determination, high standards, logical analysis",
+      "weaknesses": "Can be overly critical, impatient with inefficiency, may seem insensitive, tendency to overthink"
+    },
+    "zh-TW": {
+      "description": "INTJ 是策略思考者，擅長長期規劃和複雜問題解決。他們重視獨立性、邏輯和效率。通常被視為遠見者，INTJ 被自己的想法驅動，並強烈渴望理解事物運作方式。他們偏好獨自工作或與小而能幹的團隊合作，不害怕挑戰傳統思維。",
+      "strengths": "策略規劃、獨立思考、決心、高標準、邏輯分析",
+      "weaknesses": "可能過於批判、對效率低下不耐煩、可能顯得冷漠、傾向過度思考"
+    },
+    "es": {
+      "description": "Los INTJ son pensadores estratégicos que sobresalen en la planificación a largo plazo y la resolución de problemas complejos. Valoran la independencia, la lógica y la eficiencia. A menudo vistos como visionarios, los INTJ están impulsados por sus ideas y tienen un fuerte deseo de entender cómo funcionan las cosas. Prefieren trabajar solos o con un equipo pequeño y competente, y no temen desafiar el pensamiento convencional.",
+      "strengths": "Planificación estratégica, pensamiento independiente, determinación, altos estándares, análisis lógico",
+      "weaknesses": "Pueden ser demasiado críticos, impacientes con la ineficiencia, pueden parecer insensibles, tendencia a pensar demasiado"
+    }
+  },
+  "INTP": {
+    "en": {
+      "description": "INTPs are innovative thinkers who love exploring theoretical concepts and abstract ideas. They're curious, analytical, and enjoy deconstructing complex problems. INTPs value knowledge and truth above all else, and they're always looking for logical inconsistencies. They prefer flexible environments where they can explore ideas freely.",
+      "strengths": "Analytical thinking, creativity, independence, objective reasoning, problem-solving",
+      "weaknesses": "Can be insensitive, may procrastinate, tend to be disorganized, difficulty with routine tasks"
+    },
+    "zh-TW": {
+      "description": "INTP 是創新思考者，喜歡探索理論概念和抽象想法。他們好奇、分析性強，享受解構複雜問題。INTP 重視知識和真理勝過一切，總是在尋找邏輯不一致之處。他們偏好靈活的環境，可以自由探索想法。",
+      "strengths": "分析思考、創造力、獨立性、客觀推理、問題解決",
+      "weaknesses": "可能冷漠、可能拖延、傾向無組織、難以處理例行任務"
+    },
+    "es": {
+      "description": "Los INTP son pensadores innovadores que aman explorar conceptos teóricos e ideas abstractas. Son curiosos, analíticos y disfrutan descomponer problemas complejos. Los INTP valoran el conocimiento y la verdad por encima de todo, y siempre buscan inconsistencias lógicas. Prefieren entornos flexibles donde puedan explorar ideas libremente.",
+      "strengths": "Pensamiento analítico, creatividad, independencia, razonamiento objetivo, resolución de problemas",
+      "weaknesses": "Pueden ser insensibles, pueden procrastinar, tienden a ser desorganizados, dificultad con tareas rutinarias"
+    }
+  },
+  "INFJ": {
+    "en": {
+      "description": "INFJs are idealistic and empathetic individuals who are driven by their values and a desire to help others. They have a unique ability to understand people's motivations and see the bigger picture. INFJs are creative, insightful, and often have strong intuition about people and situations. They're committed to their ideals and work tirelessly to make a positive impact.",
+      "strengths": "Insightful, principled, passionate, altruistic, creative",
+      "weaknesses": "Sensitive to criticism, perfectionistic, private, can burn out easily"
+    },
+    "zh-TW": {
+      "description": "INFJ 是理想主義且具同理心的人，被他們的價值觀和幫助他人的願望驅動。他們有獨特的能力理解人們的動機並看到大局。INFJ 富有創造力、洞察力強，通常對人和情況有強烈的直覺。他們致力於自己的理想，不知疲倦地工作以產生積極影響。",
+      "strengths": "洞察力強、有原則、熱情、利他、創造性",
+      "weaknesses": "對批評敏感、完美主義、私密、容易精疲力竭"
+    },
+    "es": {
+      "description": "Los INFJ son individuos idealistas y empáticos que están impulsados por sus valores y el deseo de ayudar a otros. Tienen una habilidad única para entender las motivaciones de las personas y ver el panorama general. Los INFJ son creativos, perspicaces y a menudo tienen una fuerte intuición sobre las personas y las situaciones. Están comprometidos con sus ideales y trabajan incansablemente para tener un impacto positivo.",
+      "strengths": "Perspicaz, con principios, apasionado, altruista, creativo",
+      "weaknesses": "Sensible a las críticas, perfeccionista, privado, puede agotarse fácilmente"
+    }
+  },
+  "INFP": {
+    "en": {
+      "description": "INFPs are gentle, creative individuals who are guided by their strong values and beliefs. They're idealistic, empathetic, and always looking for ways to help others. INFPs value authenticity and are committed to being true to themselves. They're imaginative, open-minded, and often drawn to creative pursuits. They seek harmony and avoid conflict whenever possible.",
+      "strengths": "Empathetic, creative, passionate, flexible, dedicated",
+      "weaknesses": "Overly idealistic, too altruistic, impractical, can be overly emotional"
+    },
+    "zh-TW": {
+      "description": "INFP 是溫和、有創造力的人，由他們強烈的價值觀和信念引導。他們理想主義、有同理心，總是在尋找幫助他人的方法。INFP 重視真實性，致力於忠於自己。他們富有想像力、思想開放，通常被創意追求所吸引。他們尋求和諧，盡可能避免衝突。",
+      "strengths": "有同理心、創造性、熱情、靈活、專注",
+      "weaknesses": "過於理想主義、過於利他、不切實際、可能過於情緒化"
+    },
+    "es": {
+      "description": "Los INFP son individuos gentiles y creativos guiados por sus fuertes valores y creencias. Son idealistas, empáticos y siempre buscan formas de ayudar a otros. Los INFP valoran la autenticidad y están comprometidos a ser fieles a sí mismos. Son imaginativos, de mente abierta y a menudo atraídos por actividades creativas. Buscan armonía y evitan conflictos siempre que sea posible.",
+      "strengths": "Empático, creativo, apasionado, flexible, dedicado",
+      "weaknesses": "Demasiado idealista, demasiado altruista, poco práctico, puede ser demasiado emocional"
+    }
+  },
+  "ISTJ": {
+    "en": {
+      "description": "ISTJs are practical, responsible individuals who value tradition, order, and stability. They're reliable, detail-oriented, and committed to their duties. ISTJs prefer structured environments and clear expectations. They're methodical, organized, and excel at following through on commitments. They value facts and proven methods over theories.",
+      "strengths": "Honest, practical, responsible, calm, logical",
+      "weaknesses": "Stubborn, insensitive, always by the book, judgmental"
+    },
+    "zh-TW": {
+      "description": "ISTJ 是務實、負責任的人，重視傳統、秩序和穩定。他們可靠、注重細節，致力於職責。ISTJ 偏好結構化環境和明確期望。他們有條理、有組織，擅長履行承諾。他們重視事實和經過驗證的方法勝過理論。",
+      "strengths": "誠實、務實、負責任、冷靜、邏輯",
+      "weaknesses": "頑固、冷漠、總是按書本、愛評判"
+    },
+    "es": {
+      "description": "Los ISTJ son individuos prácticos y responsables que valoran la tradición, el orden y la estabilidad. Son confiables, orientados a los detalles y comprometidos con sus deberes. Los ISTJ prefieren entornos estructurados y expectativas claras. Son metódicos, organizados y sobresalen en cumplir compromisos. Valoran los hechos y métodos probados sobre las teorías.",
+      "strengths": "Honesto, práctico, responsable, tranquilo, lógico",
+      "weaknesses": "Terco, insensible, siempre por el libro, crítico"
+    }
+  },
+  "ISFJ": {
+    "en": {
+      "description": "ISFJs are warm, caring individuals who are dedicated to helping others and maintaining harmony. They're responsible, reliable, and have a strong sense of duty. ISFJs value tradition and stability, and they're committed to protecting and supporting those they care about. They're detail-oriented, organized, and excellent at remembering important information about people.",
+      "strengths": "Supportive, reliable, patient, imaginative, observant",
+      "weaknesses": "Humble, shy, represses feelings, too altruistic"
+    },
+    "zh-TW": {
+      "description": "ISFJ 是溫暖、關懷的人，致力於幫助他人和維持和諧。他們負責任、可靠，有強烈的責任感。ISFJ 重視傳統和穩定，致力於保護和支持他們關心的人。他們注重細節、有組織，擅長記住關於人們的重要信息。",
+      "strengths": "支持性、可靠、耐心、富有想像力、觀察力強",
+      "weaknesses": "謙虛、害羞、壓抑感情、過於利他"
+    },
+    "es": {
+      "description": "Los ISFJ son individuos cálidos y cariñosos dedicados a ayudar a otros y mantener la armonía. Son responsables, confiables y tienen un fuerte sentido del deber. Los ISFJ valoran la tradición y la estabilidad, y están comprometidos a proteger y apoyar a quienes les importan. Están orientados a los detalles, organizados y excelentes para recordar información importante sobre las personas.",
+      "strengths": "Apoyador, confiable, paciente, imaginativo, observador",
+      "weaknesses": "Humilde, tímido, reprime sentimientos, demasiado altruista"
+    }
+  },
+  "ISTP": {
+    "en": {
+      "description": "ISTPs are practical, hands-on individuals who love to understand how things work. They're independent, action-oriented, and enjoy solving problems through direct experience. ISTPs are calm under pressure and excel at troubleshooting. They value their freedom and prefer flexible, unstructured environments. They're often skilled with tools and enjoy working with their hands.",
+      "strengths": "Optimistic, creative, practical, spontaneous, rational",
+      "weaknesses": "Stubborn, insensitive, always private, easily bored"
+    },
+    "zh-TW": {
+      "description": "ISTP 是務實、動手能力強的人，喜歡理解事物如何運作。他們獨立、行動導向，享受通過直接經驗解決問題。ISTP 在壓力下保持冷靜，擅長故障排除。他們重視自由，偏好靈活、非結構化的環境。他們通常熟練使用工具，享受動手工作。",
+      "strengths": "樂觀、創造性、務實、自發、理性",
+      "weaknesses": "頑固、冷漠、總是私密、容易無聊"
+    },
+    "es": {
+      "description": "Los ISTP son individuos prácticos y manuales que aman entender cómo funcionan las cosas. Son independientes, orientados a la acción y disfrutan resolver problemas a través de la experiencia directa. Los ISTP son tranquilos bajo presión y sobresalen en la resolución de problemas. Valoran su libertad y prefieren entornos flexibles y no estructurados. A menudo son hábiles con herramientas y disfrutan trabajar con las manos.",
+      "strengths": "Optimista, creativo, práctico, espontáneo, racional",
+      "weaknesses": "Terco, insensible, siempre privado, fácilmente aburrido"
+    }
+  },
+  "ISFP": {
+    "en": {
+      "description": "ISFPs are gentle, artistic individuals who value beauty, harmony, and personal freedom. They're flexible, spontaneous, and live in the present moment. ISFPs are sensitive to their environment and have a strong aesthetic sense. They're kind, caring, and prefer to avoid conflict. They express themselves through their actions and creative pursuits rather than words.",
+      "strengths": "Charming, sensitive to others, imaginative, passionate, curious",
+      "weaknesses": "Fiercely independent, unstable, easily stressed, overly competitive"
+    },
+    "zh-TW": {
+      "description": "ISFP 是溫和、藝術性的人，重視美感、和諧和個人自由。他們靈活、自發，活在當下。ISFP 對環境敏感，有強烈的審美感。他們善良、關懷，偏好避免衝突。他們通過行動和創意追求表達自己，而不是言語。",
+      "strengths": "迷人、對他人敏感、富有想像力、熱情、好奇",
+      "weaknesses": "極度獨立、不穩定、容易壓力大、過於競爭"
+    },
+    "es": {
+      "description": "Los ISFP son individuos gentiles y artísticos que valoran la belleza, la armonía y la libertad personal. Son flexibles, espontáneos y viven en el momento presente. Los ISFP son sensibles a su entorno y tienen un fuerte sentido estético. Son amables, cariñosos y prefieren evitar conflictos. Se expresan a través de sus acciones y actividades creativas en lugar de palabras.",
+      "strengths": "Encantador, sensible a otros, imaginativo, apasionado, curioso",
+      "weaknesses": "Ferozmente independiente, inestable, fácilmente estresado, demasiado competitivo"
+    }
+  },
+  "ENTP": {
+    "en": {
+      "description": "ENTPs are innovative, energetic individuals who love intellectual challenges and debates. They're quick-witted, creative, and enjoy exploring new ideas and possibilities. ENTPs are excellent at seeing connections between seemingly unrelated concepts. They're independent, adaptable, and thrive in dynamic environments. They enjoy challenging others' ideas and testing theories.",
+      "strengths": "Knowledgeable, quick thinker, excellent brainstormer, charismatic, energetic",
+      "weaknesses": "Can be argumentative, insensitive, intolerant, find it difficult to focus"
+    },
+    "zh-TW": {
+      "description": "ENTP 是創新、充滿活力的人，喜歡智力挑戰和辯論。他們機智、有創造力，享受探索新想法和可能性。ENTP 擅長看到看似無關概念之間的聯繫。他們獨立、適應性強，在動態環境中茁壯成長。他們享受挑戰他人的想法和測試理論。",
+      "strengths": "知識淵博、思考快速、優秀的頭腦風暴者、有魅力、充滿活力",
+      "weaknesses": "可能好辯、冷漠、不寬容、難以專注"
+    },
+    "es": {
+      "description": "Los ENTP son individuos innovadores y enérgicos que aman los desafíos intelectuales y los debates. Son ingeniosos, creativos y disfrutan explorar nuevas ideas y posibilidades. Los ENTP son excelentes para ver conexiones entre conceptos aparentemente no relacionados. Son independientes, adaptables y prosperan en entornos dinámicos. Disfrutan desafiar las ideas de otros y probar teorías.",
+      "strengths": "Conocedor, pensador rápido, excelente en lluvia de ideas, carismático, enérgico",
+      "weaknesses": "Puede ser argumentativo, insensible, intolerante, le resulta difícil concentrarse"
+    }
+  },
+  "ENFP": {
+    "en": {
+      "description": "ENFPs are enthusiastic, creative individuals who are driven by their values and a desire to explore possibilities. They're optimistic, spontaneous, and love connecting with people. ENFPs are excellent at inspiring others and bringing energy to groups. They're flexible, adaptable, and thrive in environments that allow for creativity and personal expression. They seek meaning and authenticity in everything they do.",
+      "strengths": "Curious, perceptive, enthusiastic, excellent communication skills, free-spirited",
+      "weaknesses": "Can focus on too many things at once, highly stress-prone, overthink things, difficulty following through"
+    },
+    "zh-TW": {
+      "description": "ENFP 是熱情、有創造力的人，被他們的價值觀和探索可能性的願望驅動。他們樂觀、自發，喜歡與人聯繫。ENFP 擅長激勵他人並為群體帶來活力。他們靈活、適應性強，在允許創造力和個人表達的環境中茁壯成長。他們在所做的一切中尋求意義和真實性。",
+      "strengths": "好奇、有洞察力、熱情、優秀的溝通技巧、自由精神",
+      "weaknesses": "可能同時專注太多事情、高度壓力傾向、過度思考、難以堅持到底"
+    },
+    "es": {
+      "description": "Los ENFP son individuos entusiastas y creativos impulsados por sus valores y el deseo de explorar posibilidades. Son optimistas, espontáneos y aman conectarse con las personas. Los ENFP son excelentes para inspirar a otros y traer energía a los grupos. Son flexibles, adaptables y prosperan en entornos que permiten la creatividad y la expresión personal. Buscan significado y autenticidad en todo lo que hacen.",
+      "strengths": "Curioso, perceptivo, entusiasta, excelentes habilidades de comunicación, de espíritu libre",
+      "weaknesses": "Puede enfocarse en demasiadas cosas a la vez, altamente propenso al estrés, piensa demasiado, dificultad para seguir adelante"
+    }
+  },
+  "ENFJ": {
+    "en": {
+      "description": "ENFJs are charismatic, natural leaders who are passionate about helping others grow and develop. They're organized, decisive, and excellent at understanding people's needs and motivations. ENFJs value harmony and work to create positive, supportive environments. They're inspiring communicators who can motivate others to achieve their goals. They're committed to their values and principles.",
+      "strengths": "Receptive, reliable, passionate, altruistic, natural leaders",
+      "weaknesses": "Overly idealistic, too altruistic, too sensitive, fluctuating self-esteem"
+    },
+    "zh-TW": {
+      "description": "ENFJ 是有魅力、天生的領導者，熱衷於幫助他人成長和發展。他們有組織、果斷，擅長理解人們的需求和動機。ENFJ 重視和諧，努力創造積極、支持的環境。他們是鼓舞人心的溝通者，可以激勵他人實現目標。他們致力於自己的價值觀和原則。",
+      "strengths": "接納性強、可靠、熱情、利他、天生的領導者",
+      "weaknesses": "過於理想主義、過於利他、過於敏感、自尊心波動"
+    },
+    "es": {
+      "description": "Los ENFJ son líderes naturales carismáticos apasionados por ayudar a otros a crecer y desarrollarse. Son organizados, decisivos y excelentes para entender las necesidades y motivaciones de las personas. Los ENFJ valoran la armonía y trabajan para crear entornos positivos y de apoyo. Son comunicadores inspiradores que pueden motivar a otros a alcanzar sus metas. Están comprometidos con sus valores y principios.",
+      "strengths": "Receptivo, confiable, apasionado, altruista, líderes naturales",
+      "weaknesses": "Demasiado idealista, demasiado altruista, demasiado sensible, autoestima fluctuante"
+    }
+  },
+  "ESFJ": {
+    "en": {
+      "description": "ESFJs are warm, organized individuals who are dedicated to maintaining harmony and supporting others. They're responsible, reliable, and have a strong sense of duty. ESFJs value tradition and stability, and they work hard to create positive, structured environments. They're excellent at remembering details about people and are always ready to help. They thrive in social settings and enjoy bringing people together.",
+      "strengths": "Strong practical skills, loyal, sensitive, warm, good at connecting with others",
+      "weaknesses": "Worried about their social status, inflexible, reluctant to innovate, vulnerable to criticism"
+    },
+    "zh-TW": {
+      "description": "ESFJ 是溫暖、有組織的人，致力於維持和諧和支持他人。他們負責任、可靠，有強烈的責任感。ESFJ 重視傳統和穩定，努力創造積極、結構化的環境。他們擅長記住關於人們的細節，總是準備好幫助。他們在社交場合中茁壯成長，享受將人們聚集在一起。",
+      "strengths": "強大的實用技能、忠誠、敏感、溫暖、善於與他人聯繫",
+      "weaknesses": "擔心社交地位、不靈活、不願創新、容易受到批評"
+    },
+    "es": {
+      "description": "Los ESFJ son individuos cálidos y organizados dedicados a mantener la armonía y apoyar a otros. Son responsables, confiables y tienen un fuerte sentido del deber. Los ESFJ valoran la tradición y la estabilidad, y trabajan duro para crear entornos positivos y estructurados. Son excelentes para recordar detalles sobre las personas y siempre están listos para ayudar. Prosperan en entornos sociales y disfrutan uniendo a las personas.",
+      "strengths": "Fuertes habilidades prácticas, leal, sensible, cálido, bueno para conectar con otros",
+      "weaknesses": "Preocupado por su estatus social, inflexible, reacio a innovar, vulnerable a las críticas"
+    }
+  },
+  "ESTP": {
+    "en": {
+      "description": "ESTPs are energetic, action-oriented individuals who thrive in fast-paced environments. They're practical, spontaneous, and excellent at thinking on their feet. ESTPs are risk-takers who enjoy challenges and excitement. They're observant, detail-oriented, and can quickly assess situations. They value freedom and prefer hands-on, real-world experiences over theoretical discussions.",
+      "strengths": "Bold, practical, original, perceptive, direct",
+      "weaknesses": "Impatient, risk-prone, unstructured, may miss the bigger picture"
+    },
+    "zh-TW": {
+      "description": "ESTP 是充滿活力、行動導向的人，在快節奏環境中茁壯成長。他們務實、自發，擅長即興思考。ESTP 是冒險者，享受挑戰和刺激。他們觀察力強、注重細節，可以快速評估情況。他們重視自由，偏好動手、真實世界的經驗勝過理論討論。",
+      "strengths": "大膽、務實、原創、有洞察力、直接",
+      "weaknesses": "不耐煩、容易冒險、無結構、可能錯過大局"
+    },
+    "es": {
+      "description": "Los ESTP son individuos enérgicos y orientados a la acción que prosperan en entornos de ritmo rápido. Son prácticos, espontáneos y excelentes para pensar sobre la marcha. Los ESTP son tomadores de riesgos que disfrutan desafíos y emoción. Son observadores, orientados a los detalles y pueden evaluar situaciones rápidamente. Valoran la libertad y prefieren experiencias prácticas del mundo real sobre discusiones teóricas.",
+      "strengths": "Audaz, práctico, original, perceptivo, directo",
+      "weaknesses": "Impaciente, propenso al riesgo, no estructurado, puede perder el panorama general"
+    }
+  },
+  "ESFP": {
+    "en": {
+      "description": "ESFPs are spontaneous, enthusiastic individuals who love living in the moment and experiencing life to the fullest. They're social, energetic, and excellent at bringing fun and excitement to any situation. ESFPs are observant, practical, and enjoy hands-on activities. They value freedom and flexibility, and they're always ready for new adventures. They're warm, friendly, and make others feel comfortable.",
+      "strengths": "Bold, original, aesthetic, showmanship, practical",
+      "weaknesses": "Sensitive, easily bored, loses focus easily, does not plan ahead"
+    },
+    "zh-TW": {
+      "description": "ESFP 是自發、熱情的人，喜歡活在當下並充分體驗生活。他們社交、充滿活力，擅長為任何情況帶來樂趣和刺激。ESFP 觀察力強、務實，享受動手活動。他們重視自由和靈活性，總是準備好迎接新冒險。他們溫暖、友好，讓他人感到舒適。",
+      "strengths": "大膽、原創、審美、表演才能、務實",
+      "weaknesses": "敏感、容易無聊、容易失去焦點、不提前計劃"
+    },
+    "es": {
+      "description": "Los ESFP son individuos espontáneos y entusiastas que aman vivir el momento y experimentar la vida al máximo. Son sociales, enérgicos y excelentes para traer diversión y emoción a cualquier situación. Los ESFP son observadores, prácticos y disfrutan actividades manuales. Valoran la libertad y la flexibilidad, y siempre están listos para nuevas aventuras. Son cálidos, amigables y hacen que otros se sientan cómodos.",
+      "strengths": "Audaz, original, estético, talento para el espectáculo, práctico",
+      "weaknesses": "Sensible, fácilmente aburrido, pierde el enfoque fácilmente, no planifica con anticipación"
+    }
+  },
+  "ESTJ": {
+    "en": {
+      "description": "ESTJs are organized, practical leaders who value tradition, order, and structure. They're decisive, responsible, and excellent at managing people and projects. ESTJs are committed to their duties and work hard to maintain stability and efficiency. They value proven methods and prefer clear rules and expectations. They're natural organizers who excel at creating systems and processes.",
+      "strengths": "Dedicated, strong-willed, direct, honest, loyal",
+      "weaknesses": "Inflexible, unwilling to try new things, judgmental, difficulty expressing emotion"
+    },
+    "zh-TW": {
+      "description": "ESTJ 是有組織、務實的領導者，重視傳統、秩序和結構。他們果斷、負責任，擅長管理人員和項目。ESTJ 致力於職責，努力維持穩定和效率。他們重視經過驗證的方法，偏好明確的規則和期望。他們是天生的組織者，擅長創建系統和流程。",
+      "strengths": "專注、意志堅強、直接、誠實、忠誠",
+      "weaknesses": "不靈活、不願嘗試新事物、愛評判、難以表達情感"
+    },
+    "es": {
+      "description": "Los ESTJ son líderes organizados y prácticos que valoran la tradición, el orden y la estructura. Son decisivos, responsables y excelentes para gestionar personas y proyectos. Los ESTJ están comprometidos con sus deberes y trabajan duro para mantener la estabilidad y la eficiencia. Valoran métodos probados y prefieren reglas y expectativas claras. Son organizadores naturales que sobresalen en crear sistemas y procesos.",
+      "strengths": "Dedicado, de voluntad fuerte, directo, honesto, leal",
+      "weaknesses": "Inflexible, no dispuesto a probar cosas nuevas, crítico, dificultad para expresar emoción"
+    }
+  },
+  "ENTJ": {
+    "en": {
+      "description": "ENTJs are strategic, natural leaders who excel at organizing people and resources to achieve long-term goals. They're decisive, confident, and excellent at seeing the big picture. ENTJs value efficiency and competence, and they're not afraid to make tough decisions. They're ambitious, driven, and always looking for ways to improve systems and processes. They're excellent at motivating others and leading teams toward success.",
+      "strengths": "Efficient, energetic, self-confident, strong-willed, strategic thinker",
+      "weaknesses": "Stubborn, cold, intolerant, impatient, cannot relax"
+    },
+    "zh-TW": {
+      "description": "ENTJ 是策略性、天生的領導者，擅長組織人員和資源以實現長期目標。他們果斷、自信，擅長看到大局。ENTJ 重視效率和能力，不害怕做出艱難決定。他們雄心勃勃、有動力，總是在尋找改進系統和流程的方法。他們擅長激勵他人並帶領團隊走向成功。",
+      "strengths": "高效、充滿活力、自信、意志堅強、策略思考者",
+      "weaknesses": "頑固、冷漠、不寬容、不耐煩、無法放鬆"
+    },
+    "es": {
+      "description": "Los ENTJ son líderes naturales estratégicos que sobresalen en organizar personas y recursos para lograr objetivos a largo plazo. Son decisivos, seguros y excelentes para ver el panorama general. Los ENTJ valoran la eficiencia y la competencia, y no temen tomar decisiones difíciles. Son ambiciosos, impulsados y siempre buscan formas de mejorar sistemas y procesos. Son excelentes para motivar a otros y liderar equipos hacia el éxito.",
+      "strengths": "Eficiente, enérgico, seguro de sí mismo, de voluntad fuerte, pensador estratégico",
+      "weaknesses": "Terco, frío, intolerante, impaciente, no puede relajarse"
+    }
+  }
+}
+

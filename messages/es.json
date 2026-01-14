@@ -36,6 +36,65 @@
     "disclaimer": "Esta es una prueba rápida con fines de entretenimiento. Para una evaluación profesional, consulte a profesionales certificados de MBTI.",
     "privacy": "Privacidad",
     "privacyText": "No almacenamos tus resultados de prueba. Todos los datos se procesan localmente en tu navegador."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "description": "Tu privacidad es importante para nosotros.",
+    "lastUpdated": "Última actualización: Diciembre 2024",
+    "dataCollection": {
+      "title": "Recopilación de Datos",
+      "content": "No recopilamos, almacenamos ni transmitimos información personal. Todas las respuestas de la prueba se procesan completamente en tu navegador y nunca se envían a nuestros servidores. No usamos cookies para rastrear tu actividad."
+    },
+    "dataUsage": {
+      "title": "Cómo Usamos los Datos",
+      "content": "Como no recopilamos datos personales, no hay uso de datos que revelar. Tus resultados de prueba permanecen privados y solo son visibles para ti."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Podemos usar cookies esenciales para la funcionalidad del sitio web. Servicios de terceros como Google AdSense pueden usar cookies con fines publicitarios. Puedes gestionar las preferencias de cookies a través de la configuración de tu navegador."
+    },
+    "thirdParty": {
+      "title": "Servicios de Terceros",
+      "content": "Este sitio web usa Google AdSense para publicidad. AdSense puede recopilar datos anónimos para la personalización de anuncios. Consulta la Política de Privacidad de Google para obtener más información sobre cómo manejan los datos."
+    },
+    "rights": {
+      "title": "Tus Derechos",
+      "content": "Como no recopilamos datos personales, no hay información personal para acceder, modificar o eliminar. Tienes control total sobre tu experiencia de prueba."
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "content": "Si tienes preguntas sobre esta Política de Privacidad, contáctanos a través de nuestro sitio web."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre el Test Rápido MBTI.",
+    "questions": {
+      "whatIsMBTI": "¿Qué es MBTI?",
+      "howAccurate": "¿Qué tan preciso es este test?",
+      "howLong": "¿Cuánto tiempo toma el test?",
+      "freeToUse": "¿Este test es gratuito?",
+      "saveResults": "¿Se guardan mis resultados?",
+      "differentResults": "¿Por qué obtuve resultados diferentes que antes?",
+      "professionalUse": "¿Puedo usar esto para fines profesionales?"
+    },
+    "answers": {
+      "whatIsMBTIAnswer": "MBTI (Indicador de Tipo de Myers-Briggs) es una herramienta de evaluación de personalidad basada en los tipos psicológicos de Carl Jung. Categoriza a las personas en 16 tipos de personalidad usando cuatro dimensiones: Introversión/Extraversión, Sensación/Intuición, Pensamiento/Sentimiento y Juicio/Percepción.",
+      "howAccurateAnswer": "Este es un test rápido diseñado para entretenimiento y autodescubrimiento. Aunque usa metodología de árbol de decisiones, no es un reemplazo para evaluación psicológica profesional. Los resultados pueden variar y deben tomarse como punto de partida para la autorreflexión.",
+      "howLongAnswer": "El test típicamente toma 1-2 minutos en completarse. Consiste en una serie de preguntas de estilo sí/no que te guían a través de un árbol de decisiones para determinar tu tipo MBTI.",
+      "freeToUseAnswer": "Sí, este test es completamente gratuito. No hay tarifas ocultas ni suscripciones requeridas.",
+      "saveResultsAnswer": "No, no guardamos tus resultados de prueba. Todo el procesamiento ocurre localmente en tu navegador, y tus resultados nunca se transmiten a nuestros servidores. Puedes compartir tus resultados manualmente si lo deseas.",
+      "differentResultsAnswer": "La personalidad puede ser fluida y dependiente del contexto. Diferentes resultados pueden reflejar diferentes aspectos de tu personalidad o cambios a lo largo del tiempo. Esto es normal y parte de la complejidad de la personalidad humana.",
+      "professionalUseAnswer": "Este test está diseñado solo para entretenimiento e introspección personal. Para evaluaciones profesionales, asesoramiento profesional o fines clínicos, consulta a profesionales certificados de MBTI o psicólogos licenciados."
+    },
+    "stillHaveQuestions": "¿Aún tienes preguntas?",
+    "contactUs": "Contáctanos"
+  },
+  "footer": {
+    "copyright": "© 2024 Test Rápido MBTI. Solo para fines de entretenimiento.",
+    "about": "Acerca de",
+    "faq": "Preguntas Frecuentes",
+    "privacy": "Política de Privacidad"
   }
 }
 

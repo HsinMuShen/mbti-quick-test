@@ -36,6 +36,65 @@
     "disclaimer": "這是一個用於娛樂目的的快速測驗。如需專業評估，請諮詢認證的 MBTI 從業者。",
     "privacy": "隱私",
     "privacyText": "我們不會儲存您的測驗結果。所有資料都在您的瀏覽器中本地處理。"
+  },
+  "privacy": {
+    "title": "隱私權政策",
+    "description": "您的隱私對我們很重要。",
+    "lastUpdated": "最後更新：2024年12月",
+    "dataCollection": {
+      "title": "資料收集",
+      "content": "我們不會收集、儲存或傳輸任何個人資訊。所有測驗回應都在您的瀏覽器中處理，絕不會傳送到我們的伺服器。我們不使用 cookie 來追蹤您的活動。"
+    },
+    "dataUsage": {
+      "title": "資料使用方式",
+      "content": "由於我們不收集個人資料，因此無需披露資料使用情況。您的測驗結果保持私密，只有您可以看到。"
+    },
+    "cookies": {
+      "title": "Cookie",
+      "content": "我們可能使用必要的 cookie 來維持網站功能。第三方服務（如 Google AdSense）可能使用 cookie 進行廣告投放。您可以透過瀏覽器設定管理 cookie 偏好。"
+    },
+    "thirdParty": {
+      "title": "第三方服務",
+      "content": "本網站使用 Google AdSense 進行廣告投放。AdSense 可能會收集匿名資料以進行廣告個人化。有關他們如何處理資料的更多資訊，請參閱 Google 的隱私權政策。"
+    },
+    "rights": {
+      "title": "您的權利",
+      "content": "由於我們不收集個人資料，因此沒有個人資訊可供存取、修改或刪除。您對測驗體驗擁有完全控制權。"
+    },
+    "contact": {
+      "title": "聯絡我們",
+      "content": "如果您對本隱私權政策有任何疑問，請透過我們的網站與我們聯絡。"
+    }
+  },
+  "faq": {
+    "title": "常見問題",
+    "description": "找到關於 MBTI 快速測驗的常見問題答案。",
+    "questions": {
+      "whatIsMBTI": "什麼是 MBTI？",
+      "howAccurate": "這個測驗有多準確？",
+      "howLong": "測驗需要多長時間？",
+      "freeToUse": "這個測驗是免費的嗎？",
+      "saveResults": "我的結果會被儲存嗎？",
+      "differentResults": "為什麼我得到與之前不同的結果？",
+      "professionalUse": "我可以將此用於專業目的嗎？"
+    },
+    "answers": {
+      "whatIsMBTIAnswer": "MBTI（邁爾斯-布里格斯類型指標）是一種基於卡爾·榮格心理類型的人格評估工具。它使用四個維度將人們分類為 16 種人格類型：內向/外向、感覺/直覺、思考/情感和判斷/感知。",
+      "howAccurateAnswer": "這是一個為娛樂和自我發現而設計的快速測驗。雖然它使用決策樹方法，但不能替代專業的心理評估。結果可能會有所不同，應作為自我反思的起點。",
+      "howLongAnswer": "測驗通常需要 1-2 分鐘完成。它由一系列是/否式問題組成，引導您通過決策樹來確定您的 MBTI 類型。",
+      "freeToUseAnswer": "是的，這個測驗完全免費使用。無需隱藏費用或訂閱。",
+      "saveResultsAnswer": "不會，我們不會儲存您的測驗結果。所有處理都在您的瀏覽器中本地進行，您的結果永遠不會傳送到我們的伺服器。如果您願意，可以手動分享您的結果。",
+      "differentResultsAnswer": "人格可能是流動的且依情境而定。不同的結果可能反映您人格的不同面向或隨時間的變化。這是正常的，也是人類人格複雜性的一部分。",
+      "professionalUseAnswer": "此測驗僅設計用於娛樂和個人洞察。如需專業評估、職業諮詢或臨床用途，請諮詢認證的 MBTI 從業者或許可的心理學家。"
+    },
+    "stillHaveQuestions": "還有問題嗎？",
+    "contactUs": "聯絡我們"
+  },
+  "footer": {
+    "copyright": "© 2024 MBTI 快速測驗。僅供娛樂用途。",
+    "about": "關於",
+    "faq": "常見問題",
+    "privacy": "隱私權政策"
   }
 }
 
