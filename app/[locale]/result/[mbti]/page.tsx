@@ -1,10 +1,12 @@
-import { notFound } from 'next/navigation'
 import { getTranslations } from 'next-intl/server'
-import { Link } from '@/lib/routing'
-import decisionTree from '@/data/decision_tree.json'
-import ShareButtons from '@/components/ShareButtons'
+import { notFound } from 'next/navigation'
+
 import AdSlot from '@/components/AdSlot'
+import ShareButtons from '@/components/ShareButtons'
 import { Button } from '@/components/ui/button'
+import decisionTree from '@/data/decision_tree.json'
+import mbtiDescriptions from '@/data/mbti_descriptions.json'
+import { Link } from '@/lib/routing'
 
 const mbtiTypes = [
   'intj',
@@ -39,7 +41,19 @@ export async function generateMetadata({
   const { locale, mbti } = await params
   const upperMbti = mbti.toUpperCase()
 
-  const tree = decisionTree as any
+  interface DecisionTree {
+    nodes: Record<
+      string,
+      {
+        result?: {
+          title: Record<string, string>
+          summary: Record<string, string>
+        }
+      }
+    >
+  }
+
+  const tree = decisionTree as DecisionTree
   const leafKey = `leaf_${mbti.toLowerCase()}`
   const leaf = tree.nodes[leafKey]
 
@@ -76,7 +90,29 @@ export default async function ResultPage({
   const { locale, mbti } = await params
   const upperMbti = mbti.toUpperCase()
 
-  const tree = decisionTree as any
+  interface DecisionTree {
+    nodes: Record<
+      string,
+      {
+        result?: {
+          title: Record<string, string>
+          summary: Record<string, string>
+        }
+      }
+    >
+  }
+
+  interface MBTIDescriptions {
+    [key: string]: {
+      [locale: string]: {
+        description: string
+        strengths: string
+        weaknesses: string
+      }
+    }
+  }
+
+  const tree = decisionTree as DecisionTree
   const leafKey = `leaf_${mbti.toLowerCase()}`
   const leaf = tree.nodes[leafKey]
 
@@ -88,6 +124,10 @@ export default async function ResultPage({
   const summary = leaf.result.summary[locale] || leaf.result.summary.en
   const t = await getTranslations('result')
 
+  // Get detailed description
+  const descriptions = mbtiDescriptions as MBTIDescriptions
+  const detailedInfo = descriptions[upperMbti]?.[locale] || descriptions[upperMbti]?.en
+
   return (
     <div className="max-w-7xl mx-auto px-4 w-full">
       <div className="flex flex-col lg:flex-row gap-8">
@@ -97,8 +137,27 @@ export default async function ResultPage({
             <div className="text-center mb-8">
               <div className="text-6xl font-bold text-blue-600 mb-4">{upperMbti}</div>
               <h1 className="text-4xl font-bold text-gray-900 mb-4">{title}</h1>
-              <p className="text-xl text-gray-700">{summary}</p>
+              <p className="text-xl text-gray-700 mb-6">{summary}</p>
             </div>
+
+            {/* Detailed Description */}
+            {detailedInfo && (
+              <div className="border-t pt-8 mb-8">
+                <h2 className="text-2xl font-bold mb-4 text-gray-900">About {upperMbti}</h2>
+                <p className="text-gray-700 leading-relaxed mb-6">{detailedInfo.description}</p>
+
+                <div className="grid md:grid-cols-2 gap-6">
+                  <div>
+                    <h3 className="text-lg font-semibold mb-3 text-green-700">Strengths</h3>
+                    <p className="text-gray-700">{detailedInfo.strengths}</p>
+                  </div>
+                  <div>
+                    <h3 className="text-lg font-semibold mb-3 text-orange-700">Growth Areas</h3>
+                    <p className="text-gray-700">{detailedInfo.weaknesses}</p>
+                  </div>
+                </div>
+              </div>
+            )}
 
             <div className="border-t pt-8">
               <ShareButtons mbti={upperMbti} title={title} summary={summary} locale={locale} />

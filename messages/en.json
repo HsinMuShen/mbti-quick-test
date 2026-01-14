@@ -36,6 +36,65 @@
     "disclaimer": "This is a quick test for entertainment purposes. For professional assessment, please consult certified MBTI practitioners.",
     "privacy": "Privacy",
     "privacyText": "We do not store your test results. All data is processed locally in your browser."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "Your privacy is important to us.",
+    "lastUpdated": "Last updated: December 2024",
+    "dataCollection": {
+      "title": "Data Collection",
+      "content": "We do not collect, store, or transmit any personal information. All test responses are processed entirely in your browser and are never sent to our servers. We do not use cookies to track your activity."
+    },
+    "dataUsage": {
+      "title": "How We Use Data",
+      "content": "Since we do not collect personal data, there is no data usage to disclose. Your test results remain private and are only visible to you."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "We may use essential cookies for website functionality. Third-party services like Google AdSense may use cookies for advertising purposes. You can manage cookie preferences through your browser settings."
+    },
+    "thirdParty": {
+      "title": "Third-Party Services",
+      "content": "This website uses Google AdSense for advertising. AdSense may collect anonymous data for ad personalization. Please refer to Google's Privacy Policy for more information about how they handle data."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "content": "Since we do not collect personal data, there is no personal information to access, modify, or delete. You have full control over your test experience."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us through our website."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about the MBTI Quick Test.",
+    "questions": {
+      "whatIsMBTI": "What is MBTI?",
+      "howAccurate": "How accurate is this test?",
+      "howLong": "How long does the test take?",
+      "freeToUse": "Is this test free?",
+      "saveResults": "Are my results saved?",
+      "differentResults": "Why did I get different results than before?",
+      "professionalUse": "Can I use this for professional purposes?"
+    },
+    "answers": {
+      "whatIsMBTIAnswer": "MBTI (Myers-Briggs Type Indicator) is a personality assessment tool based on Carl Jung's psychological types. It categorizes people into 16 personality types using four dimensions: Introversion/Extraversion, Sensing/Intuition, Thinking/Feeling, and Judging/Perceiving.",
+      "howAccurateAnswer": "This is a quick test designed for entertainment and self-discovery. While it uses decision tree methodology, it's not a replacement for professional psychological assessment. Results may vary and should be taken as a starting point for self-reflection.",
+      "howLongAnswer": "The test typically takes 1-2 minutes to complete. It consists of a series of yes/no style questions that guide you through a decision tree to determine your MBTI type.",
+      "freeToUseAnswer": "Yes, this test is completely free to use. There are no hidden fees or subscriptions required.",
+      "saveResultsAnswer": "No, we do not save your test results. All processing happens locally in your browser, and your results are never transmitted to our servers. You can share your results manually if you choose.",
+      "differentResultsAnswer": "Personality can be fluid and context-dependent. Different results may reflect different aspects of your personality or changes over time. This is normal and part of the complexity of human personality.",
+      "professionalUseAnswer": "This test is designed for entertainment and personal insight only. For professional assessments, career counseling, or clinical purposes, please consult certified MBTI practitioners or licensed psychologists."
+    },
+    "stillHaveQuestions": "Still have questions?",
+    "contactUs": "Contact Us"
+  },
+  "footer": {
+    "copyright": "© 2024 MBTI Quick Test. For entertainment purposes only.",
+    "about": "About",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy"
   }
 }
 

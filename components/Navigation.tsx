@@ -1,11 +1,12 @@
 'use client'
 
-import { Link } from '@/lib/routing'
 import { useTranslations } from 'next-intl'
-import { usePathname } from '@/lib/routing'
+
 import { Button } from './ui/button'
 
-export default function Navigation({ locale }: { locale: string }) {
+import { Link, usePathname } from '@/lib/routing'
+
+export default function Navigation() {
   const t = useTranslations('nav')
   const pathname = usePathname()
 
@@ -35,6 +36,14 @@ export default function Navigation({ locale }: { locale: string }) {
               }`}
             >
               {t('about')}
+            </Link>
+            <Link
+              href="/faq"
+              className={`text-xs sm:text-sm font-medium transition-colors cursor-pointer hidden sm:block ${
+                pathname === '/faq' ? 'text-blue-600 font-semibold' : 'text-gray-700 hover:text-blue-600'
+              }`}
+            >
+              FAQ
             </Link>
             <Link href="/test">
               <Button size="sm" className="text-xs sm:text-sm">
