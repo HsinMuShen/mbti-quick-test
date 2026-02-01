@@ -1,5 +1,5 @@
-import { getTranslations } from 'next-intl/server'
 import { notFound } from 'next/navigation'
+import { getTranslations } from 'next-intl/server'
 
 import AdSlot from '@/components/AdSlot'
 import ShareButtons from '@/components/ShareButtons'
@@ -164,9 +164,6 @@ export default async function ResultPage({
             </div>
           </div>
 
-          {/* Ad below main result card */}
-          <AdSlot slot="result-main" className="my-8" format="fluid" />
-
           <div className="bg-white rounded-lg shadow-lg p-6 mb-8 border-2 border-gray-100">
             <h2 className="text-2xl font-bold mb-4 text-center text-gray-900">Related Types</h2>
             <p className="text-gray-700 text-center mb-4">
@@ -185,9 +182,6 @@ export default async function ResultPage({
             </div>
           </div>
 
-          {/* Ad below related types */}
-          <AdSlot slot="result-related" className="my-8" format="fluid" />
-
           <div className="text-center mb-8">
             <Link href="/test">
               <Button size="lg" variant="default">
@@ -196,16 +190,9 @@ export default async function ResultPage({
             </Link>
           </div>
 
-          {/* Footer ad */}
+          {/* Only one ad per result page — after all substantive content */}
           <AdSlot slot="result-footer" className="my-8" format="fluid" />
         </div>
-
-        {/* Desktop sidebar ad (≥ 1024px) */}
-        <aside className="hidden lg:block w-80 flex-shrink-0">
-          <div className="sticky top-24">
-            <AdSlot slot="result-sidebar" className="w-full" format="auto" />
-          </div>
-        </aside>
       </div>
     </div>
   )

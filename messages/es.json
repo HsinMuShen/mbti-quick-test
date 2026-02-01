@@ -2,6 +2,7 @@
   "nav": {
     "home": "Inicio",
     "about": "Acerca de",
+    "types": "Tipos",
     "test": "Hacer Test"
   },
   "landing": {
@@ -15,6 +16,17 @@
       "accurateDesc": "Basado en metodología de árbol de decisiones",
       "shareable": "Comparte Tu Resultado",
       "shareableDesc": "Comparte con amigos y familia"
+    },
+    "whatIsMBTI": {
+      "title": "¿Qué es MBTI?",
+      "p1": "El Indicador de Tipo de Myers-Briggs (MBTI) es uno de los marcos de personalidad más populares del mundo. Fue desarrollado por Katharine Cook Briggs y su hija Isabel Briggs Myers, basado en los tipos psicológicos propuestos por Carl Jung a principios del siglo XX.",
+      "p2": "MBTI clasifica a las personas en 16 tipos de personalidad usando cuatro pares de preferencias opuestas: Extraversión (E) vs Introversión (I), Sensación (S) vs Intuición (N), Pensamiento (T) vs Sentimiento (F), y Juicio (J) vs Percepción (P). Cada tipo refleja cómo prefieres enfocar tu energía, absorber información, tomar decisiones y organizar tu vida.",
+      "p3": "Conocer tu tipo puede ayudarte a reconocer tus fortalezas, estilo de comunicación y cómo trabajas con otros. Muchas personas lo usan para autoconocimiento, exploración profesional y mejorar relaciones."
+    },
+    "sixteenTypes": {
+      "title": "Los 16 Tipos de Personalidad",
+      "intro": "Los 16 tipos son combinaciones de las cuatro letras (ej. INFP, ESTJ). Cada tipo tiene un patrón distinto de preferencias y suele tener un nombre descriptivo (ej. Arquitecto para INTJ, Activista para ENFP). Nuestro test te guía por un árbol de decisiones corto para encontrar el tipo que mejor encaja con tus respuestas.",
+      "link": "Ver los 16 tipos con descripciones"
     }
   },
   "test": {
@@ -35,7 +47,13 @@
     "description": "El Indicador de Tipo de Myers-Briggs (MBTI) es una herramienta de evaluación de personalidad que categoriza a los individuos en 16 tipos de personalidad distintos basados en cuatro dimensiones: Extraversión/Introversión, Sensación/Intuición, Pensamiento/Sentimiento y Juicio/Percepción.",
     "disclaimer": "Esta es una prueba rápida con fines de entretenimiento. Para una evaluación profesional, consulte a profesionales certificados de MBTI.",
     "privacy": "Privacidad",
-    "privacyText": "No almacenamos tus resultados de prueba. Todos los datos se procesan localmente en tu navegador."
+    "privacyText": "No almacenamos tus resultados de prueba. Todos los datos se procesan localmente en tu navegador.",
+    "history": "Historia del MBTI",
+    "historyContent": "Katharine Cook Briggs y su hija Isabel Briggs Myers desarrollaron el MBTI durante y después de la Segunda Guerra Mundial, inspiradas por el libro Tipos Psicológicos (1921) de Carl Jung. Querían hacer accesibles y útiles las ideas de Jung para la gente común. El indicador se publicó por primera vez en 1962 y desde entonces se ha actualizado y usado en educación, desarrollo profesional y trabajo en equipo.",
+    "fourDimensions": "Las Cuatro Dimensiones",
+    "dimensionsContent": "MBTI usa cuatro pares de preferencias opuestas. Extraversión (E) vs Introversión (I) describe de dónde obtienes energía—del mundo exterior o de tu mundo interior. Sensación (S) vs Intuición (N) describe cómo tomas información—por detalles concretos o por patrones y posibilidades. Pensamiento (T) vs Sentimiento (F) describe cómo tomas decisiones—por lógica o por valores e impacto en las personas. Juicio (J) vs Percepción (P) describe cómo organizas tu vida—con estructura y cierre o con flexibilidad y apertura.",
+    "useCases": "Cómo se Usa el MBTI",
+    "useCasesContent": "La gente usa MBTI para autoconocimiento, exploración profesional, mejorar la comunicación en relaciones y equipos, y entender diferencias en estilos de aprendizaje y trabajo. No mide habilidad ni inteligencia—describe preferencias, no capacidades. Ningún tipo es mejor ni peor; cada uno tiene fortalezas y áreas de crecimiento."
   },
   "privacy": {
     "title": "Política de Privacidad",
@@ -89,6 +107,11 @@
     },
     "stillHaveQuestions": "¿Aún tienes preguntas?",
     "contactUs": "Contáctanos"
+  },
+  "personalityTypes": {
+    "title": "Los 16 Tipos de Personalidad MBTI",
+    "description": "Explora los 16 tipos MBTI con descripciones breves.",
+    "intro": "Cada tipo es una combinación de cuatro preferencias. Haz clic en un tipo para leer una descripción más larga o haz el test para encontrar el tuyo."
   },
   "footer": {
     "copyright": "© 2024 Test Rápido MBTI. Solo para fines de entretenimiento.",

@@ -38,6 +38,14 @@ export default function Navigation() {
               {t('about')}
             </Link>
             <Link
+              href="/personality-types"
+              className={`text-xs sm:text-sm font-medium transition-colors cursor-pointer hidden sm:block ${
+                pathname === '/personality-types' ? 'text-blue-600 font-semibold' : 'text-gray-700 hover:text-blue-600'
+              }`}
+            >
+              {t('types')}
+            </Link>
+            <Link
               href="/faq"
               className={`text-xs sm:text-sm font-medium transition-colors cursor-pointer hidden sm:block ${
                 pathname === '/faq' ? 'text-blue-600 font-semibold' : 'text-gray-700 hover:text-blue-600'

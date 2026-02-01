@@ -2,6 +2,7 @@
   "nav": {
     "home": "Home",
     "about": "About",
+    "types": "Types",
     "test": "Take Test"
   },
   "landing": {
@@ -15,6 +16,17 @@
       "accurateDesc": "Based on decision tree methodology",
       "shareable": "Share Your Result",
       "shareableDesc": "Share with friends and family"
+    },
+    "whatIsMBTI": {
+      "title": "What is MBTI?",
+      "p1": "The Myers-Briggs Type Indicator (MBTI) is one of the world's most popular personality frameworks. It was developed by Katharine Cook Briggs and her daughter Isabel Briggs Myers, based on the psychological types proposed by Carl Jung in the early 20th century.",
+      "p2": "MBTI sorts people into 16 personality types using four pairs of opposite preferences: Extraversion (E) vs Introversion (I), Sensing (S) vs Intuition (N), Thinking (T) vs Feeling (F), and Judging (J) vs Perceiving (P). Each type reflects how you prefer to focus your energy, take in information, make decisions, and organize your life.",
+      "p3": "Understanding your type can help you recognize your strengths, communication style, and how you work with others. Many people use it for self-awareness, career exploration, and improving relationships."
+    },
+    "sixteenTypes": {
+      "title": "The 16 Personality Types",
+      "intro": "The 16 types are combinations of the four letters (e.g. INFP, ESTJ). Each type has a distinct pattern of preferences and is often given a descriptive name (e.g. Architect for INTJ, Campaigner for ENFP). Our test guides you through a short decision tree to find the type that best fits your answers.",
+      "link": "See all 16 types with descriptions"
     }
   },
   "test": {
@@ -35,7 +47,13 @@
     "description": "The Myers-Briggs Type Indicator (MBTI) is a personality assessment tool that categorizes individuals into 16 distinct personality types based on four dimensions: Extraversion/Introversion, Sensing/Intuition, Thinking/Feeling, and Judging/Perceiving.",
     "disclaimer": "This is a quick test for entertainment purposes. For professional assessment, please consult certified MBTI practitioners.",
     "privacy": "Privacy",
-    "privacyText": "We do not store your test results. All data is processed locally in your browser."
+    "privacyText": "We do not store your test results. All data is processed locally in your browser.",
+    "history": "History of MBTI",
+    "historyContent": "Katharine Cook Briggs and her daughter Isabel Briggs Myers developed the MBTI during and after World War II, inspired by Carl Jung's book Psychological Types (1921). They wanted to make Jung's ideas accessible and useful for everyday people. The indicator was first published in 1962 and has since been updated and used in education, career development, and team building.",
+    "fourDimensions": "The Four Dimensions",
+    "dimensionsContent": "MBTI uses four pairs of opposite preferences. Extraversion (E) vs Introversion (I) describes where you get energy—from the outer world or your inner world. Sensing (S) vs Intuition (N) describes how you take in information—through concrete details or patterns and possibilities. Thinking (T) vs Feeling (F) describes how you make decisions—by logic or by values and impact on people. Judging (J) vs Perceiving (P) describes how you organize your life—with structure and closure or with flexibility and openness.",
+    "useCases": "How People Use MBTI",
+    "useCasesContent": "People use MBTI for self-awareness, career exploration, improving communication in relationships and teams, and understanding differences in learning and work styles. It is not a measure of skill or intelligence—it describes preferences, not abilities. No type is better or worse; each has strengths and growth areas."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -89,6 +107,11 @@
     },
     "stillHaveQuestions": "Still have questions?",
     "contactUs": "Contact Us"
+  },
+  "personalityTypes": {
+    "title": "All 16 MBTI Personality Types",
+    "description": "Explore the 16 MBTI types with short descriptions.",
+    "intro": "Each type is a combination of four preferences. Click a type to read a longer description and take the test to find yours."
   },
   "footer": {
     "copyright": "© 2024 MBTI Quick Test. For entertainment purposes only.",

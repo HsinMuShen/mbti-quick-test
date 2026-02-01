@@ -1,4 +1,3 @@
-import { useTranslations } from 'next-intl'
 import { getTranslations } from 'next-intl/server'
 import { Link } from '@/lib/routing'
 import { Button } from '@/components/ui/button'
@@ -16,16 +15,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 }
 
 export default async function LandingPage({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params
+  await params
   const t = await getTranslations('landing')
 
   return (
     <div className="max-w-6xl mx-auto w-full px-4">
-      {/* Optional non-intrusive banner ad */}
-      <div className="mb-8">
-        <AdSlot slot="landing-banner" className="w-full" format="auto" />
-      </div>
-
+      {/* Content first — no ads above the fold */}
       <div className="text-center mb-16">
         <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">{t('title')}</h1>
         <p className="text-xl text-gray-700 mb-8 max-w-2xl mx-auto">{t('subtitle')}</p>
@@ -36,7 +31,7 @@ export default async function LandingPage({ params }: { params: Promise<{ locale
         </Link>
       </div>
 
-      <div className="grid md:grid-cols-3 gap-8 mt-16">
+      <div className="grid md:grid-cols-3 gap-8 mb-16">
         <div className="bg-white rounded-lg shadow-lg p-6 text-center border-2 border-gray-100 hover:border-blue-200 transition-all duration-200 hover:shadow-xl">
           <Zap className="w-12 h-12 text-blue-600 mx-auto mb-4" />
           <h3 className="text-xl font-bold mb-2 text-gray-900">{t('features.fast')}</h3>
@@ -52,6 +47,30 @@ export default async function LandingPage({ params }: { params: Promise<{ locale
           <h3 className="text-xl font-bold mb-2 text-gray-900">{t('features.shareable')}</h3>
           <p className="text-gray-700">{t('features.shareableDesc')}</p>
         </div>
+      </div>
+
+      {/* Substantial publisher content — What is MBTI */}
+      <section className="bg-white rounded-lg shadow-lg p-8 mb-8 border-2 border-gray-100">
+        <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('whatIsMBTI.title')}</h2>
+        <p className="text-gray-700 leading-relaxed mb-4">{t('whatIsMBTI.p1')}</p>
+        <p className="text-gray-700 leading-relaxed mb-4">{t('whatIsMBTI.p2')}</p>
+        <p className="text-gray-700 leading-relaxed">{t('whatIsMBTI.p3')}</p>
+      </section>
+
+      {/* The 16 types intro + link to full list */}
+      <section className="bg-white rounded-lg shadow-lg p-8 mb-8 border-2 border-gray-100">
+        <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('sixteenTypes.title')}</h2>
+        <p className="text-gray-700 leading-relaxed mb-4">{t('sixteenTypes.intro')}</p>
+        <Link href="/personality-types">
+          <span className="text-blue-600 hover:text-blue-700 font-semibold cursor-pointer">
+            {t('sixteenTypes.link')} →
+          </span>
+        </Link>
+      </section>
+
+      {/* Single ad only after substantial content */}
+      <div className="my-8">
+        <AdSlot slot="landing-footer" className="w-full" format="auto" />
       </div>
     </div>
   )
