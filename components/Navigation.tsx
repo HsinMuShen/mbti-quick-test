@@ -46,6 +46,14 @@ export default function Navigation() {
               {t('types')}
             </Link>
             <Link
+              href="/articles"
+              className={`text-xs sm:text-sm font-medium transition-colors cursor-pointer hidden sm:block ${
+                pathname?.startsWith('/articles') ? 'text-blue-600 font-semibold' : 'text-gray-700 hover:text-blue-600'
+              }`}
+            >
+              {t('articles')}
+            </Link>
+            <Link
               href="/faq"
               className={`text-xs sm:text-sm font-medium transition-colors cursor-pointer hidden sm:block ${
                 pathname === '/faq' ? 'text-blue-600 font-semibold' : 'text-gray-700 hover:text-blue-600'

@@ -24,6 +24,11 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
       </div>
 
       <section className="bg-white rounded-lg shadow-lg p-8 mb-8 border-2 border-gray-100">
+        <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('aboutThisSite')}</h2>
+        <p className="text-gray-700 leading-relaxed">{t('aboutThisSiteContent')}</p>
+      </section>
+
+      <section className="bg-white rounded-lg shadow-lg p-8 mb-8 border-2 border-gray-100">
         <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('history')}</h2>
         <p className="text-gray-700 leading-relaxed">{t('historyContent')}</p>
       </section>

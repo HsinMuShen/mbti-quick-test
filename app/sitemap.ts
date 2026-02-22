@@ -1,5 +1,7 @@
 import { MetadataRoute } from 'next'
+import articlesData from '@/data/articles.json'
 
+const articles = articlesData.articles as Array<{ slug: string }>
 const mbtiTypes = [
   'intj',
   'intp',
@@ -53,6 +55,57 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
+    })
+
+    routes.push({
+      url: `${baseUrl}/${locale}/articles`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    })
+
+    routes.push({
+      url: `${baseUrl}/${locale}/understanding-results`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })
+
+    routes.push({
+      url: `${baseUrl}/${locale}/terms`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    })
+
+    routes.push({
+      url: `${baseUrl}/${locale}/contact`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.6,
+    })
+
+    routes.push({
+      url: `${baseUrl}/${locale}/faq`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.6,
+    })
+
+    routes.push({
+      url: `${baseUrl}/${locale}/personality-types`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    })
+
+    articles.forEach((article) => {
+      routes.push({
+        url: `${baseUrl}/${locale}/articles/${article.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.7,
+      })
     })
 
     // Add all result pages
