@@ -54,7 +54,15 @@ export default async function LandingPage({ params }: { params: Promise<{ locale
         <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('whatIsMBTI.title')}</h2>
         <p className="text-gray-700 leading-relaxed mb-4">{t('whatIsMBTI.p1')}</p>
         <p className="text-gray-700 leading-relaxed mb-4">{t('whatIsMBTI.p2')}</p>
-        <p className="text-gray-700 leading-relaxed">{t('whatIsMBTI.p3')}</p>
+        <p className="text-gray-700 leading-relaxed mb-4">{t('whatIsMBTI.p3')}</p>
+        <p className="text-gray-700 leading-relaxed">{t('whatIsMBTI.p4')}</p>
+      </section>
+
+      {/* Why take this test */}
+      <section className="bg-white rounded-lg shadow-lg p-8 mb-8 border-2 border-gray-100">
+        <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('whyTakeTest.title')}</h2>
+        <p className="text-gray-700 leading-relaxed mb-4">{t('whyTakeTest.p1')}</p>
+        <p className="text-gray-700 leading-relaxed">{t('whyTakeTest.p2')}</p>
       </section>
 
       {/* The 16 types intro + link to full list */}

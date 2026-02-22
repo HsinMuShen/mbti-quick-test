@@ -3,6 +3,7 @@
     "home": "Inicio",
     "about": "Acerca de",
     "types": "Tipos",
+    "articles": "Artículos",
     "test": "Hacer Test"
   },
   "landing": {
@@ -21,12 +22,18 @@
       "title": "¿Qué es MBTI?",
       "p1": "El Indicador de Tipo de Myers-Briggs (MBTI) es uno de los marcos de personalidad más populares del mundo. Fue desarrollado por Katharine Cook Briggs y su hija Isabel Briggs Myers, basado en los tipos psicológicos propuestos por Carl Jung a principios del siglo XX.",
       "p2": "MBTI clasifica a las personas en 16 tipos de personalidad usando cuatro pares de preferencias opuestas: Extraversión (E) vs Introversión (I), Sensación (S) vs Intuición (N), Pensamiento (T) vs Sentimiento (F), y Juicio (J) vs Percepción (P). Cada tipo refleja cómo prefieres enfocar tu energía, absorber información, tomar decisiones y organizar tu vida.",
-      "p3": "Conocer tu tipo puede ayudarte a reconocer tus fortalezas, estilo de comunicación y cómo trabajas con otros. Muchas personas lo usan para autoconocimiento, exploración profesional y mejorar relaciones."
+      "p3": "Conocer tu tipo puede ayudarte a reconocer tus fortalezas, estilo de comunicación y cómo trabajas con otros. Muchas personas lo usan para autoconocimiento, exploración profesional y mejorar relaciones.",
+      "p4": "Este sitio ofrece un test MBTI rápido y gratuito de 1–2 minutos. Usa un enfoque de árbol de decisiones: unas preguntas que acotan al tipo que mejor encaja con tus respuestas. Para guías sobre las cuatro dimensiones y cómo usar tu resultado, visita la sección Artículos."
     },
     "sixteenTypes": {
       "title": "Los 16 Tipos de Personalidad",
       "intro": "Los 16 tipos son combinaciones de las cuatro letras (ej. INFP, ESTJ). Cada tipo tiene un patrón distinto de preferencias y suele tener un nombre descriptivo (ej. Arquitecto para INTJ, Activista para ENFP). Nuestro test te guía por un árbol de decisiones corto para encontrar el tipo que mejor encaja con tus respuestas.",
       "link": "Ver los 16 tipos con descripciones"
+    },
+    "whyTakeTest": {
+      "title": "¿Por qué hacer este test?",
+      "p1": "Nuestro test MBTI gratuito está pensado para quien sienta curiosidad por los tipos de personalidad—ya sea nuevo en el marco o quiera revisar sus preferencias en poco tiempo. Tarda 1–2 minutos y te da un resultado que puedes explorar con descripciones completas del tipo, fortalezas y consejos para usar tu tipo en el día a día.",
+      "p2": "Puedes usar tu resultado para reflexionar, para hablar con amigos o como punto de partida para leer nuestros artículos sobre las cuatro dimensiones y cómo aplicar el MBTI en relaciones y trabajo. No hace falta cuenta ni email; tus respuestas se quedan en tu navegador."
     }
   },
   "test": {
@@ -40,11 +47,14 @@
     "share": "Compartir Resultado",
     "retake": "Repetir Test",
     "copySuccess": "¡Copiado al portapapeles!",
-    "copyError": "Error al copiar"
+    "copyError": "Error al copiar",
+    "understandingResultsLink": "Cómo usar tu resultado"
   },
   "about": {
     "title": "Acerca de MBTI",
     "description": "El Indicador de Tipo de Myers-Briggs (MBTI) es una herramienta de evaluación de personalidad que categoriza a los individuos en 16 tipos de personalidad distintos basados en cuatro dimensiones: Extraversión/Introversión, Sensación/Intuición, Pensamiento/Sentimiento y Juicio/Percepción.",
+    "aboutThisSite": "Acerca de este sitio",
+    "aboutThisSiteContent": "Test Rápido MBTI es un sitio gratuito con publicidad que ofrece un test de personalidad corto y contenido educativo sobre los 16 tipos MBTI. Nuestro objetivo es hacer el marco accesible y divertido: puedes hacer el test en 1–2 minutos, leer sobre tu tipo y explorar artículos sobre las cuatro dimensiones y cómo usar tu resultado. No recopilamos ni almacenamos tus respuestas; todo el procesamiento ocurre en tu navegador. Para políticas y contacto, consulta Política de Privacidad, Términos de Uso y Contáctanos.",
     "disclaimer": "Esta es una prueba rápida con fines de entretenimiento. Para una evaluación profesional, consulte a profesionales certificados de MBTI.",
     "privacy": "Privacidad",
     "privacyText": "No almacenamos tus resultados de prueba. Todos los datos se procesan localmente en tu navegador.",
@@ -57,7 +67,8 @@
   },
   "privacy": {
     "title": "Política de Privacidad",
-    "description": "Tu privacidad es importante para nosotros.",
+    "description": "Cómo manejamos tu información cuando usas el Test Rápido MBTI.",
+    "intro": "Test Rápido MBTI se compromete a proteger tu privacidad. Esta política explica qué información recopilamos, cómo la usamos y tus opciones. Te animamos a leerla con atención.",
     "lastUpdated": "Última actualización: Diciembre 2024",
     "dataCollection": {
       "title": "Recopilación de Datos",
@@ -81,7 +92,47 @@
     },
     "contact": {
       "title": "Contáctanos",
-      "content": "Si tienes preguntas sobre esta Política de Privacidad, contáctanos a través de nuestro sitio web."
+      "content": "Si tienes preguntas sobre esta Política de Privacidad o cómo manejamos los datos, visita nuestra página de Contacto. Responderemos consultas relacionadas con la privacidad cuando sea posible."
+    },
+    "changes": {
+      "title": "Cambios en esta política",
+      "content": "Podemos actualizar esta Política de Privacidad de vez en cuando. La fecha de \"Última actualización\" al inicio reflejará la versión más reciente. El uso continuado del sitio tras los cambios constituye la aceptación de la política actualizada. Recomendamos consultar esta página periódicamente."
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "description": "Escríbenos con preguntas o comentarios sobre el Test Rápido MBTI.",
+    "intro": "Agradecemos preguntas y comentarios sobre el Test Rápido MBTI. Ya sea una sugerencia, un error o si quieres saber más sobre cómo funciona el test, puedes contactarnos a través de los canales indicados en este sitio. Nuestro objetivo es ofrecer una experiencia útil y transparente a quienes usan nuestro test de personalidad gratuito.",
+    "privacyNote": "Para preguntas específicas sobre cómo manejamos tus datos, cookies o servicios de terceros como la publicidad, consulta nuestra Política de Privacidad. No recopilamos ni almacenamos tus resultados; todo el procesamiento ocurre en tu navegador.",
+    "responseTime": "Hacemos lo posible por responder cuando podemos. Por volumen puede que no podamos responder a cada mensaje. Para respuestas rápidas sobre el test, los tipos MBTI y cómo usar tu resultado, consulta las secciones de Preguntas Frecuentes y Artículos.",
+    "privacyLink": "Política de Privacidad",
+    "faqLink": "Preguntas Frecuentes",
+    "aboutLink": "Acerca de MBTI"
+  },
+  "terms": {
+    "title": "Términos de Uso",
+    "description": "Términos y avisos para el uso del sitio Test Rápido MBTI.",
+    "lastUpdated": "Última actualización: Diciembre 2024",
+    "purpose": {
+      "heading": "Propósito de este sitio",
+      "content": "Test Rápido MBTI ofrece una evaluación de personalidad gratuita y breve inspirada en el Indicador de Tipo Myers-Briggs. El sitio está pensado para entretenimiento, autodescubrimiento y fines educativos. Queremos ofrecer una forma rápida y amena de explorar los 16 tipos de personalidad y conocer tus preferencias."
+    },
+    "disclaimer": {
+      "heading": "Aviso legal",
+      "content": "Este test no sustituye una evaluación psicológica profesional, asesoramiento profesional o consejo médico. Los resultados son solo informativos y de entretenimiento. El MBTI y marcos similares describen preferencias, no capacidades ni trastornos. Si necesitas apoyo profesional, consulta a un profesional cualificado."
+    },
+    "useOfSite": {
+      "heading": "Uso del sitio",
+      "content": "Al usar este sitio aceptas hacerlo de forma legal y respetuosa. El contenido y el test se ofrecen \"tal cual\". No garantizamos la exactitud de los resultados ni que el sitio esté libre de errores. Usas el test y lees nuestro contenido bajo tu propia responsabilidad."
+    },
+    "changes": {
+      "heading": "Cambios en estos términos",
+      "content": "Podemos actualizar estos Términos de Uso de vez en cuando. La fecha de \"Última actualización\" reflejará la versión más reciente. El uso continuado del sitio tras los cambios significa que aceptas los términos actualizados. Recomendamos revisar esta página periódicamente."
+    },
+    "contact": {
+      "heading": "Preguntas",
+      "content": "Si tienes preguntas sobre estos términos o el sitio, visita nuestra página de Contacto.",
+      "contactLink": "Contáctanos"
     }
   },
   "faq": {
@@ -97,27 +148,73 @@
       "professionalUse": "¿Puedo usar esto para fines profesionales?"
     },
     "answers": {
-      "whatIsMBTIAnswer": "MBTI (Indicador de Tipo de Myers-Briggs) es una herramienta de evaluación de personalidad basada en los tipos psicológicos de Carl Jung. Categoriza a las personas en 16 tipos de personalidad usando cuatro dimensiones: Introversión/Extraversión, Sensación/Intuición, Pensamiento/Sentimiento y Juicio/Percepción.",
-      "howAccurateAnswer": "Este es un test rápido diseñado para entretenimiento y autodescubrimiento. Aunque usa metodología de árbol de decisiones, no es un reemplazo para evaluación psicológica profesional. Los resultados pueden variar y deben tomarse como punto de partida para la autorreflexión.",
+      "whatIsMBTIAnswer": "MBTI (Indicador de Tipo de Myers-Briggs) es una herramienta de evaluación de personalidad basada en los tipos psicológicos de Carl Jung. Categoriza a las personas en 16 tipos de personalidad usando cuatro dimensiones: Introversión/Extraversión, Sensación/Intuición, Pensamiento/Sentimiento y Juicio/Percepción. Cada dimensión describe una preferencia (p. ej. de dónde obtienes energía, cómo captas información), y las cuatro letras forman tu tipo. Nuestro sitio ofrece un test corto y gratuito que usa un árbol de decisiones para sugerir el tipo que mejor encaja con tus respuestas, además de artículos y descripciones para que aprendas más.",
+      "howAccurateAnswer": "Este es un test rápido pensado para entretenimiento y autodescubrimiento. Usa un árbol de decisiones: tus respuestas a una serie de preguntas acotan hasta uno de los 16 tipos. Aunque ese método puede dar resultados coherentes y útiles, no sustituye la evaluación MBTI oficial completa ni una evaluación psicológica profesional. Los resultados pueden variar con el contexto y el tiempo. Recomendamos usar tu resultado como punto de partida para la reflexión y para explorar los 16 tipos, no como etiqueta definitiva.",
       "howLongAnswer": "El test típicamente toma 1-2 minutos en completarse. Consiste en una serie de preguntas de estilo sí/no que te guían a través de un árbol de decisiones para determinar tu tipo MBTI.",
       "freeToUseAnswer": "Sí, este test es completamente gratuito. No hay tarifas ocultas ni suscripciones requeridas.",
       "saveResultsAnswer": "No, no guardamos tus resultados de prueba. Todo el procesamiento ocurre localmente en tu navegador, y tus resultados nunca se transmiten a nuestros servidores. Puedes compartir tus resultados manualmente si lo deseas.",
       "differentResultsAnswer": "La personalidad puede ser fluida y dependiente del contexto. Diferentes resultados pueden reflejar diferentes aspectos de tu personalidad o cambios a lo largo del tiempo. Esto es normal y parte de la complejidad de la personalidad humana.",
-      "professionalUseAnswer": "Este test está diseñado solo para entretenimiento e introspección personal. Para evaluaciones profesionales, asesoramiento profesional o fines clínicos, consulta a profesionales certificados de MBTI o psicólogos licenciados."
+      "professionalUseAnswer": "Este test está diseñado solo para entretenimiento e introspección personal. No está validado para contratación, diagnóstico clínico o evaluación formal. Si necesitas resultados para asesoramiento profesional, trabajo en equipo o salud mental, usa el instrumento MBTI oficial administrado por un profesional certificado o acude a un psicólogo licenciado. Nuestro contenido y test pretenden ayudarte a conocer los tipos de personalidad de forma divertida y sin presión."
     },
     "stillHaveQuestions": "¿Aún tienes preguntas?",
     "contactUs": "Contáctanos"
   },
   "personalityTypes": {
     "title": "Los 16 Tipos de Personalidad MBTI",
-    "description": "Explora los 16 tipos MBTI con descripciones breves.",
-    "intro": "Cada tipo es una combinación de cuatro preferencias. Haz clic en un tipo para leer una descripción más larga o haz el test para encontrar el tuyo."
+    "description": "Explora los 16 tipos MBTI con descripciones breves y enlaces a perfiles completos.",
+    "intro": "Cada tipo es una combinación de cuatro preferencias. Haz clic en un tipo para leer una descripción más larga o haz el test para encontrar el tuyo.",
+    "intro2": "La lista siguiente muestra los 16 tipos con un resumen breve. Puedes usarla para comparar tipos, conocer a amigos y compañeros o explorar después del test. Para guías más profundas sobre las cuatro dimensiones y cómo usar tu resultado, visita Artículos y Entender Resultados."
   },
   "footer": {
     "copyright": "© 2024 Test Rápido MBTI. Solo para fines de entretenimiento.",
     "about": "Acerca de",
     "faq": "Preguntas Frecuentes",
-    "privacy": "Política de Privacidad"
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "contact": "Contacto",
+    "articles": "Artículos",
+    "understandingResults": "Entender Resultados"
+  },
+  "articles": {
+    "title": "Artículos y Guías",
+    "description": "Aprende más sobre MBTI y cómo usar tus resultados.",
+    "intro": "Artículos en profundidad para entender los tipos de personalidad y aplicar tu resultado MBTI en la vida diaria.",
+    "readMore": "Leer más",
+    "backToArticles": "Volver a Artículos"
+  },
+  "understandingResults": {
+    "title": "Entender Tu Resultado MBTI",
+    "description": "Cómo interpretar y usar tu tipo de personalidad para autoconciencia, relaciones y carrera.",
+    "intro": "Tu resultado MBTI es un punto de partida para el autoconocimiento. Así puedes sacarle el máximo partido.",
+    "sections": {
+      "interpretation": {
+        "heading": "Cómo interpretar tu tipo",
+        "p1": "Tu tipo de cuatro letras (ej. INFP, ESTJ) refleja tus preferencias en cuatro dimensiones: de dónde obtienes energía, cómo captas información, cómo tomas decisiones y cómo organizas tu vida. Ningún tipo es mejor ni peor; cada uno tiene fortalezas y áreas de crecimiento.",
+        "p2": "Lee la descripción completa y fortalezas en tu página de resultado. Si algo no encaja, es normal: el MBTI describe tendencias, no cada situación. Úsalo como lente para reflexionar, no como etiqueta fija."
+      },
+      "selfAwareness": {
+        "heading": "Autoconciencia y crecimiento",
+        "p1": "Conocer tu tipo puede ayudarte a respetar tus necesidades. Los introvertidos pueden necesitar tiempo tranquilo para recargar; los Calificadores pueden rendir mejor con plazos claros. Cuando notes estrés o conflicto, tu tipo puede dar pistas de qué falta (ej. flexibilidad, claridad o conexión).",
+        "p2": "Puedes desarrollar habilidades en cualquier dimensión. El MBTI muestra lo que te resulta natural; no limita lo que puedes aprender o ser."
+      },
+      "relationships": {
+        "heading": "Relaciones y comunicación",
+        "p1": "Las diferencias de tipo suelen explicar por qué la gente choca o conecta. Por ejemplo, los Racionales pueden centrarse primero en la lógica mientras los Emocionales consideran el impacto en las personas. Los Sensoriales pueden querer detalles concretos y los Intuitivos prefieren el panorama general.",
+        "p2": "Entender estas diferencias puede reducir la frustración y mejorar el trabajo en equipo, la dinámica familiar y las amistades. Comparte tu tipo con otros para explicar tu estilo, no para estereotipar."
+      },
+      "career": {
+        "heading": "Carrera y aprendizaje",
+        "p1": "Mucha gente usa el MBTI para explorar carreras y estilos de aprendizaje. Algunos tipos gravitan hacia roles de análisis, estructura o personas; otros hacia creatividad o flexibilidad. Usa tu resultado para explorar opciones que encajen con tus preferencias.",
+        "p2": "Recuerda: tu tipo describe preferencias, no capacidades. Puedes tener éxito en cualquier campo; el MBTI solo ayuda a entender cómo podrías aprender y trabajar mejor."
+      },
+      "nextSteps": {
+        "heading": "Próximos pasos",
+        "p1": "Consulta nuestra sección de Artículos para guías más profundas sobre las cuatro dimensiones, la historia del MBTI y cómo usar tu resultado en la vida diaria. También puedes explorar los 16 tipos de personalidad para comparar y aprender.",
+        "p2": "Revisa tu resultado de vez en cuando. Según te conozcas más, tu comprensión de tu tipo puede profundizarse—y para eso está el MBTI."
+      }
+    },
+    "readArticles": "Leer nuestros artículos",
+    "browseTypes": "Ver los 16 tipos"
   }
 }
 

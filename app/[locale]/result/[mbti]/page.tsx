@@ -162,6 +162,15 @@ export default async function ResultPage({
             <div className="border-t pt-8">
               <ShareButtons mbti={upperMbti} title={title} summary={summary} locale={locale} />
             </div>
+
+            <div className="border-t pt-6 mt-6">
+              <Link
+                href="/understanding-results"
+                className="text-blue-600 hover:text-blue-700 font-semibold"
+              >
+                {t('understandingResultsLink')} →
+              </Link>
+            </div>
           </div>
 
           <div className="bg-white rounded-lg shadow-lg p-6 mb-8 border-2 border-gray-100">

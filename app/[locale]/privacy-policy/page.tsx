@@ -24,6 +24,7 @@ export default async function PrivacyPolicyPage({
 
       <div className="bg-white rounded-lg shadow-lg p-8 mb-6 border-2 border-gray-100">
         <p className="text-sm text-gray-500 mb-6">{t('lastUpdated')}</p>
+        <p className="text-gray-700 leading-relaxed mb-8">{t('intro')}</p>
 
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('dataCollection.title')}</h2>
@@ -53,6 +54,11 @@ export default async function PrivacyPolicyPage({
         <section className="mb-8">
           <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('contact.title')}</h2>
           <p className="text-gray-700 mb-4 leading-relaxed">{t('contact.content')}</p>
+        </section>
+
+        <section className="mb-8">
+          <h2 className="text-2xl font-bold mb-4 text-gray-900">{t('changes.title')}</h2>
+          <p className="text-gray-700 mb-4 leading-relaxed">{t('changes.content')}</p>
         </section>
       </div>
     </div>

@@ -1,0 +1,115 @@
+{
+  "articles": [
+    {
+      "slug": "what-is-mbti-guide",
+      "title": {
+        "en": "What Is the MBTI? A Complete Guide to the 16 Personality Types",
+        "zh-TW": "什麼是 MBTI？十六型人格完整指南",
+        "es": "¿Qué es el MBTI? Guía completa de los 16 tipos de personalidad"
+      },
+      "description": {
+        "en": "Learn how the Myers-Briggs Type Indicator works, where it came from, and how understanding your type can improve self-awareness and relationships.",
+        "zh-TW": "了解邁爾斯-布里格斯類型指標如何運作、從何而來，以及認識你的類型如何提升自我覺察與人際關係。",
+        "es": "Aprende cómo funciona el Indicador de Tipo Myers-Briggs, sus orígenes y cómo entender tu tipo puede mejorar la autoconciencia y las relaciones."
+      },
+      "paragraphs": {
+        "en": [
+          "The Myers-Briggs Type Indicator (MBTI) is one of the most widely used personality frameworks in the world. It was developed by Katharine Cook Briggs and her daughter Isabel Briggs Myers over several decades, inspired by the psychological types described by Carl Jung in his 1921 work Psychological Types. The mother-daughter team wanted to make Jung's ideas practical and accessible so that everyday people could understand themselves and others better.",
+          "The MBTI sorts people into 16 personality types based on four pairs of opposite preferences. Each pair describes how you tend to behave: where you get your energy (Extraversion vs Introversion), how you take in information (Sensing vs Intuition), how you make decisions (Thinking vs Feeling), and how you like to organize your life (Judging vs Perceiving). No preference is better or worse; each has strengths and blind spots.",
+          "Understanding your type can help you recognize your natural strengths, communication style, and how you work best with others. Many people use the MBTI for self-discovery, career exploration, team building, and improving relationships. It is not a measure of intelligence or skill—it describes preferences, not abilities. Results can also vary over time or by context, so the MBTI is best used as a starting point for reflection rather than a fixed label.",
+          "Our quick test uses a decision-tree approach: a short series of questions that narrow down to the type that best matches your answers. It is designed for fun and self-reflection. For formal or professional use, consider taking the official MBTI assessment with a certified practitioner."
+        ],
+        "zh-TW": [
+          "邁爾斯-布里格斯類型指標（MBTI）是全球最廣泛使用的性格架構之一。它由凱瑟琳·庫克·布里格斯和女兒伊莎貝爾·布里格斯·邁爾斯歷經數十年發展，靈感來自卡爾·榮格在 1921 年《心理類型》中描述的心理類型。母女團隊希望讓榮格的想法變得實用、易懂，使一般人能更了解自己與他人。",
+          "MBTI 根據四組相對的偏好將人分為 16 種性格類型。每組描述你的行為傾向：從哪裡獲得能量（外向 vs 內向）、如何接收資訊（感覺 vs 直覺）、如何做決定（思考 vs 情感）、以及如何安排生活（判斷 vs 知覺）。沒有哪一種偏好更好或更差；各有優點與盲點。",
+          "了解你的類型有助於認識自己的天生優勢、溝通風格，以及如何與他人更好地合作。許多人用 MBTI 做自我探索、職涯探索、團隊建立與改善關係。它不是衡量智力或能力，而是描述偏好。結果也可能因時間或情境而異，因此 MBTI 最適合作為反思的起點，而非固定標籤。",
+          "我們的快速測驗採用決策樹方式：透過一系列簡短問題縮小範圍，找出最符合你答案的類型。測驗以趣味與自我反思為目的。若需正式或專業用途，建議與認證施測師進行官方 MBTI 評估。"
+        ],
+        "es": [
+          "El Indicador de Tipo Myers-Briggs (MBTI) es uno de los marcos de personalidad más utilizados en el mundo. Fue desarrollado por Katharine Cook Briggs y su hija Isabel Briggs Myers durante varias décadas, inspirado en los tipos psicológicos descritos por Carl Jung en su obra de 1921 Tipos psicológicos. El equipo madre-hija quería hacer las ideas de Jung prácticas y accesibles para que cualquier persona pudiera comprenderse mejor a sí misma y a los demás.",
+          "El MBTI clasifica a las personas en 16 tipos de personalidad según cuatro pares de preferencias opuestas. Cada par describe cómo sueles comportarte: de dónde obtienes energía (Extraversión vs Introversión), cómo captas la información (Sensorial vs Intuitivo), cómo tomas decisiones (Racional vs Emocional) y cómo te gusta organizar tu vida (Calificador vs Perceptivo). Ninguna preferencia es mejor ni peor; cada una tiene fortalezas y puntos ciegos.",
+          "Conocer tu tipo puede ayudarte a reconocer tus fortalezas naturales, tu estilo de comunicación y cómo trabajas mejor con otros. Muchas personas usan el MBTI para autoconocimiento, orientación profesional, trabajo en equipo y mejora de relaciones. No mide inteligencia ni habilidad: describe preferencias, no capacidades. Los resultados también pueden variar con el tiempo o el contexto, por lo que el MBTI se usa mejor como punto de partida para la reflexión que como etiqueta fija.",
+          "Nuestro test rápido usa un enfoque de árbol de decisiones: una serie corta de preguntas que acotan hasta el tipo que mejor coincide con tus respuestas. Está pensado para divertirse y reflexionar. Para uso formal o profesional, considera realizar la evaluación MBTI oficial con un profesional certificado."
+        ]
+      }
+    },
+    {
+      "slug": "four-dimensions-explained",
+      "title": {
+        "en": "The Four MBTI Dimensions Explained: E/I, S/N, T/F, J/P",
+        "zh-TW": "MBTI 四維度解析：E/I、S/N、T/F、J/P",
+        "es": "Los cuatro dimensiones del MBTI explicadas: E/I, S/N, T/F, J/P"
+      },
+      "description": {
+        "en": "A clear breakdown of the four preference pairs that make up your MBTI type and how they show up in everyday life.",
+        "zh-TW": "清楚解析構成你 MBTI 類型的四組偏好，以及它們如何表現在日常生活中。",
+        "es": "Un desglose claro de los cuatro pares de preferencias que forman tu tipo MBTI y cómo se manifiestan en la vida diaria."
+      },
+      "paragraphs": {
+        "en": [
+          "Your MBTI type is made of four letters, each representing one dimension. Understanding what each dimension means helps you interpret your type and see why you might clash or connect with others.",
+          "Extraversion (E) vs Introversion (I) is about where you get energy. Extraverts tend to feel energized by being around people and external activity; they often think out loud and enjoy variety. Introverts tend to recharge by spending time alone or in small groups; they often need quiet time to reflect. This has nothing to do with being shy or outgoing—it is about your inner battery.",
+          "Sensing (S) vs Intuition (N) is about how you take in information. Sensors focus on concrete details, facts, and what they can see or measure. They are often practical and grounded. Intuitives focus on patterns, possibilities, and the big picture. They are often drawn to ideas and future-oriented thinking. Both are valuable; they simply notice different things first.",
+          "Thinking (T) vs Feeling (F) is about how you make decisions. Thinkers tend to prioritize logic, consistency, and fairness based on principles. Feelers tend to prioritize values, harmony, and the impact on people. Neither is more emotional; Feelers simply weigh people and values more heavily in decisions.",
+          "Judging (J) vs Perceiving (P) is about how you like to organize your outer life. Judgers prefer structure, deadlines, and closure; they like to plan and decide. Perceivers prefer flexibility, options, and keeping things open; they like to adapt as they go. This affects how you manage time, work, and daily routines.",
+          "When you put all four together, you get one of 16 types—each with a unique combination of strengths and preferences. Our quick test helps you find the combination that fits you best."
+        ],
+        "zh-TW": [
+          "你的 MBTI 類型由四個字母組成，每個代表一個維度。了解每個維度的意義，有助於解讀你的類型，並理解你為何與某些人容易衝突或契合。",
+          "外向（E）與內向（I）關乎你從哪裡獲得能量。外向者通常在人際互動與外部活動中獲得能量，常邊想邊說、喜歡多樣性。內向者通常透過獨處或小團體相處來充電，常需要安靜時間反思。這與害羞或外向無關，而是關乎你的內在電池。",
+          "感覺（S）與直覺（N）關乎你如何接收資訊。感覺型注重具體細節、事實與可觀察、可測量的東西，通常務實、腳踏實地。直覺型注重模式、可能性與大局，常被想法與面向未來的思考吸引。兩者都有價值，只是首先注意到的東西不同。",
+          "思考（T）與情感（F）關乎你如何做決定。思考型傾向優先考慮邏輯、一致性與基於原則的公平。情感型傾向優先考慮價值觀、和諧與對人的影響。兩者並非誰更情緒化；情感型只是在做決定時更重視人與價值。",
+          "判斷（J）與知覺（P）關乎你如何安排外在生活。判斷型偏好結構、截止日期與收尾，喜歡計畫與做決定。知覺型偏好彈性、選項與保持開放，喜歡邊做邊調整。這會影響你如何管理時間、工作與日常。",
+          "將四者組合起來，就得到 16 型中的一種——每種都有獨特的優勢與偏好組合。我們的快速測驗幫助你找到最符合你的組合。"
+        ],
+        "es": [
+          "Tu tipo MBTI se compone de cuatro letras, cada una representa una dimensión. Entender qué significa cada dimensión te ayuda a interpretar tu tipo y ver por qué chocas o conectas con otros.",
+          "Extraversión (E) vs Introversión (I) trata de dónde obtienes energía. Los extravertidos suelen energizarse con la gente y la actividad externa; a menudo piensan en voz alta y disfrutan la variedad. Los introvertidos suelen recargarse con tiempo a solas o en grupos pequeños; a menudo necesitan silencio para reflexionar. No tiene que ver con ser tímido o sociable, sino con tu batería interna.",
+          "Sensorial (S) vs Intuitivo (N) trata de cómo captas la información. Los sensoriales se centran en detalles concretos, hechos y lo que pueden ver o medir. Suelen ser prácticos y con los pies en la tierra. Los intuitivos se centran en patrones, posibilidades y el panorama general. A menudo les atraen las ideas y el pensamiento orientado al futuro. Ambos son valiosos; simplemente notan primero cosas distintas.",
+          "Racional (T) vs Emocional (F) trata de cómo tomas decisiones. Los racionales suelen priorizar la lógica, la coherencia y la justicia basada en principios. Los emocionales suelen priorizar los valores, la armonía y el impacto en las personas. Ninguno es más emocional; los emocionales simplemente ponderan más a las personas y los valores en las decisiones.",
+          "Calificador (J) vs Perceptivo (P) trata de cómo te gusta organizar tu vida externa. Los calificadores prefieren estructura, plazos y cierre; les gusta planificar y decidir. Los perceptivos prefieren flexibilidad, opciones y mantener las cosas abiertas; les gusta adaptarse sobre la marcha. Esto afecta cómo gestionas el tiempo, el trabajo y las rutinas.",
+          "Cuando juntas las cuatro, obtienes uno de los 16 tipos, cada uno con una combinación única de fortalezas y preferencias. Nuestro test rápido te ayuda a encontrar la combinación que mejor te encaja."
+        ]
+      }
+    },
+    {
+      "slug": "how-to-use-your-mbti-result",
+      "title": {
+        "en": "How to Use Your MBTI Result in Daily Life and Work",
+        "zh-TW": "如何在生活與工作中運用你的 MBTI 結果",
+        "es": "Cómo usar tu resultado MBTI en la vida diaria y el trabajo"
+      },
+      "description": {
+        "en": "Practical ways to apply your personality type for better self-awareness, career choices, and relationships.",
+        "zh-TW": "將你的性格類型實際運用於自我覺察、職涯選擇與人際關係。",
+        "es": "Formas prácticas de aplicar tu tipo de personalidad para una mejor autoconciencia, elección de carrera y relaciones."
+      },
+      "paragraphs": {
+        "en": [
+          "Getting your MBTI result is just the beginning. The real value comes from using it to understand yourself and others. Here are practical ways to apply your type in everyday life.",
+          "Self-awareness: Your type highlights your natural preferences—how you recharge, how you process information, and how you make decisions. Use this to honor your needs (e.g., introverts scheduling quiet time, perceivers leaving room for flexibility) and to notice when you are stretching outside your comfort zone. That awareness can reduce stress and improve choices.",
+          "Communication: Knowing your type can help you explain your style to others. If you are a Thinker, you might say you need to step back and analyze before deciding. If you are a Feeler, you might say you want to consider how a decision affects people. Sharing this with family, friends, or colleagues can reduce misunderstandings and build respect.",
+          "Career and learning: MBTI is often used in career exploration. Some types gravitate toward roles that involve analysis or structure; others toward roles that involve people or creativity. Use your result as a lens to explore careers and learning styles that fit you—but remember it describes preferences, not limits. You can develop in any direction.",
+          "Relationships: Understanding type differences can ease friction. For example, a Judger and a Perceiver may need to agree on how much structure they want at home. An Extravert and an Introvert may need to balance social time and alone time. The goal is not to stereotype but to appreciate different needs and find compromises.",
+          "Keep in mind that the MBTI describes tendencies, not destiny. You can behave in any way in any situation; your type simply shows what comes more naturally. Use your result as a starting point for reflection, and revisit it from time to time as you learn more about yourself."
+        ],
+        "zh-TW": [
+          "得到 MBTI 結果只是開始。真正的價值在於用它來了解自己與他人。以下是在日常生活中運用類型的實用方法。",
+          "自我覺察：你的類型突顯你的自然偏好——如何充電、如何處理資訊、如何做決定。用這點來尊重自己的需求（例如內向者安排安靜時間、知覺型保留彈性），並察覺何時你正跨出舒適圈。這種覺察能降低壓力、改善選擇。",
+          "溝通：了解類型有助於向他人說明你的風格。若你是思考型，可以說你需要先退一步分析再決定。若你是情感型，可以說你想考慮決定對人的影響。與家人、朋友或同事分享這些，能減少誤解、建立尊重。",
+          "職涯與學習：MBTI 常被用於職涯探索。有些類型傾向需要分析或結構的工作，有些傾向需要與人互動或創意的工作。用你的結果作為探索適合你的職涯與學習風格的鏡頭——但記得它描述的是偏好，不是限制。你可以在任何方向發展。",
+          "人際關係：了解類型差異可以緩和摩擦。例如判斷型與知覺型可能需要在家庭中對「有多少結構」達成共識。外向者與內向者可能需要在社交時間與獨處時間之間取得平衡。目標不是貼標籤，而是理解不同需求並找到妥協。",
+          "記住 MBTI 描述的是傾向，不是命運。你在任何情境下都可以有各種表現；類型只是顯示什麼對你來說更自然。把結果當作反思的起點，並在更了解自己時不時回顧。"
+        ],
+        "es": [
+          "Obtener tu resultado MBTI es solo el principio. El valor real está en usarlo para comprenderse a uno mismo y a los demás. Aquí tienes formas prácticas de aplicar tu tipo en el día a día.",
+          "Autoconciencia: Tu tipo destaca tus preferencias naturales (cómo recargas, cómo procesas la información, cómo decides). Úsalo para respetar tus necesidades (p. ej. introvertidos que reservan tiempo tranquilo, perceptivos que dejan margen de flexibilidad) y para notar cuándo te estás saliendo de tu zona de confort. Esa conciencia puede reducir el estrés y mejorar tus decisiones.",
+          "Comunicación: Conocer tu tipo puede ayudarte a explicar tu estilo a otros. Si eres Racional, puedes decir que necesitas un momento para analizar antes de decidir. Si eres Emocional, puedes decir que quieres considerar cómo una decisión afecta a las personas. Compartir esto con familia, amigos o compañeros puede reducir malentendidos y generar respeto.",
+          "Carrera y aprendizaje: El MBTI se usa a menudo en orientación profesional. Algunos tipos gravitan hacia roles de análisis o estructura; otros hacia roles con personas o creatividad. Usa tu resultado como lente para explorar carreras y estilos de aprendizaje que encajen contigo—pero recuerda que describe preferencias, no límites. Puedes desarrollarte en cualquier dirección.",
+          "Relaciones: Entender las diferencias de tipo puede suavizar fricciones. Por ejemplo, un Calificador y un Perceptivo pueden necesitar acordar cuánta estructura quieren en casa. Un Extravertido y un Introvertido pueden necesitar equilibrar tiempo social y tiempo a solas. El objetivo no es estereotipar sino apreciar necesidades distintas y encontrar acuerdos.",
+          "Ten en cuenta que el MBTI describe tendencias, no destino. Puedes comportarte de cualquier manera en cualquier situación; tu tipo solo muestra lo que te resulta más natural. Usa tu resultado como punto de partida para reflexionar y revísalo de vez en cuando según vayas conociéndote más."
+        ]
+      }
+    }
+  ]
+}

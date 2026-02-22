@@ -56,7 +56,8 @@ export default async function PersonalityTypesPage({
   return (
     <div className="max-w-4xl mx-auto">
       <h1 className="text-4xl font-bold mb-4 text-center text-gray-900">{t('title')}</h1>
-      <p className="text-xl text-gray-700 mb-12 text-center">{t('intro')}</p>
+      <p className="text-xl text-gray-700 mb-4 text-center">{t('intro')}</p>
+      <p className="text-gray-700 mb-12 text-center max-w-2xl mx-auto">{t('intro2')}</p>
 
       <div className="grid md:grid-cols-2 gap-6">
         {mbtiTypes.map((type) => {

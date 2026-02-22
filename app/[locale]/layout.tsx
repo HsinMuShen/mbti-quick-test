@@ -44,11 +44,23 @@ export default async function LocaleLayout({
                 <Link href="/about" className="text-gray-600 hover:text-blue-600 transition-colors">
                   {t('about')}
                 </Link>
+                <Link href="/articles" className="text-gray-600 hover:text-blue-600 transition-colors">
+                  {t('articles')}
+                </Link>
+                <Link href="/understanding-results" className="text-gray-600 hover:text-blue-600 transition-colors">
+                  {t('understandingResults')}
+                </Link>
                 <Link href="/faq" className="text-gray-600 hover:text-blue-600 transition-colors">
                   {t('faq')}
                 </Link>
                 <Link href="/privacy-policy" className="text-gray-600 hover:text-blue-600 transition-colors">
                   {t('privacy')}
+                </Link>
+                <Link href="/terms" className="text-gray-600 hover:text-blue-600 transition-colors">
+                  {t('terms')}
+                </Link>
+                <Link href="/contact" className="text-gray-600 hover:text-blue-600 transition-colors">
+                  {t('contact')}
                 </Link>
               </div>
             </div>
